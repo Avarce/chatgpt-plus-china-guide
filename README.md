@@ -1,7 +1,11 @@
-# ChatGPT Plus 国内充值指南（2026 年 7 月更新）
+# ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
 > 最后更新：2026 年 7 月 · 本文长期维护，价格与政策以官网 / 下单页最新显示为准。
 > 看到更新时间过久，欢迎提 Issue 催更。
+
+如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
+
+[直接查看支付宝买美区 Apple 礼品卡的 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
 一句话说明这篇文章想干的事：帮你把 ChatGPT Plus 稳稳开起来、少花冤枉钱、别踩坑——哪怕你最后一个第三方服务都不用。
 
@@ -82,7 +86,7 @@
 
 **缺点 / 注意：** 门槛高、只收 USDT 的居多；各种费用叠起来比 $20 贵不少；对隐私敏感的人不友好；平台跑路风险始终悬着。
 
-### 路线 C：美区 Apple ID + 礼品卡（有苹果设备的人，最「官方」的一条路）
+### 路线 C：支付宝买美区 Apple 礼品卡，用 iPhone 订阅 ChatGPT Plus（亲测）
 
 **适合谁：** 有 iPhone 或 iPad、愿意折腾一次美区 Apple ID 的人。（订阅本身绑在你的 OpenAI 账号上，开通后网页端、Mac、安卓都能正常用，只是「买卡 + 下单」这步需要用一台苹果设备完成。）
 
@@ -102,21 +106,21 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step1-us-city.jpg" width="250" alt="切换到美国城市并点开 Coupons"><br>
+      <img src="images/giftcard-step1-us-city.jpg" width="250" alt="支付宝切换到美国城市并点开 Coupons，准备购买美区 Apple 礼品卡"><br>
       <b>①</b> 支付宝<b>左上角</b>把定位切到<b>美国任意城市</b>，页面变成「欢迎来到美国」后，点最下方的 <b>Coupons</b>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step2-coupons.jpg" width="250" alt="进入大牌礼卡，点精选大牌折扣礼卡"><br>
+      <img src="images/giftcard-step2-coupons.jpg" width="250" alt="支付宝进入大牌礼卡，点开 Pockyt 精选大牌折扣礼卡"><br>
       <b>②</b> 在「大牌礼卡」里点 <b>精选大牌折扣礼卡</b>（尽在 Pockyt）
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step3-appstore.jpg" width="250" alt="在 Pockyt Shop 选 App Store & iTunes USA"><br>
+      <img src="images/giftcard-step3-appstore.jpg" width="250" alt="在 Pockyt Shop 选择 App Store & iTunes USA 美区 Apple 礼品卡"><br>
       <b>③</b> 进入 Pockyt Shop，选 <b>App Store &amp; iTunes USA</b>，填邮箱、选面额（<b>直接选 $20，别卡着 $19.99</b>）
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step4-payment.jpg" width="250" alt="支付宝付款，$20 礼品卡实付 ¥135.98"><br>
+      <img src="images/giftcard-step4-payment.jpg" width="250" alt="支付宝购买 $20 美区 Apple 礼品卡实付 ¥135.98，用于 iPhone 订阅 ChatGPT Plus"><br>
       <b>④</b> 支付宝付款：<b>$20 礼品卡实付 ¥135.98</b>，汇率透明、没有高溢价
     </td>
   </tr>
