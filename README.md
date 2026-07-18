@@ -104,7 +104,7 @@
 
 ### 路线 C：支付宝买美区 Apple 礼品卡，用 iPhone 订阅 ChatGPT Plus（亲测）
 
-**适合谁：** 有 iPhone 或 iPad、愿意准备一个美区 Apple ID 的人。订阅最终绑定在你登录的 OpenAI 账号上，开通后网页端、Mac、安卓都能正常使用；只有购买礼品卡、兑换和完成 Apple 内购这几步需要苹果设备。
+**适合谁：** 有 iPhone 或 iPad、愿意准备一个美区 Apple ID 的人。订阅最终绑定在你登录的 OpenAI 账号上；购买礼品卡可在装有支付宝的手机上完成；兑换礼品卡和完成 iOS 内购需要 iPhone 或 iPad。
 
 **先分清两个不同的动作：**
 
