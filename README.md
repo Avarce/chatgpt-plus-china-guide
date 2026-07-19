@@ -39,6 +39,8 @@
 
 只想快点开、不想读细节的，直接跳到[路线 C 的支付宝实测流程](#支付宝买美区礼品卡实测流程附截图)或[路线 D](#路线-d第三方代充多数人最省心但要会挑)。
 
+不想折腾 Apple ID：[Aonir 自助充值](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=repo_top) — 30天订阅质保，售后有保障。
+
 ## 先搞明白：为什么国内充 Plus 这么难
 
 很多人以为是自己操作有问题，其实是支付源头和网络环境两道门槛卡住的，跟你会不会用 ChatGPT 无关。搞懂这三点，后面所有报错你都能自己判断：
@@ -104,7 +106,7 @@
 
 ### 路线 C：支付宝买美区 Apple 礼品卡，用 iPhone 订阅 ChatGPT Plus（亲测）
 
-**适合谁：** 有 iPhone 或 iPad、愿意准备一个美区 Apple ID 的人。订阅最终绑定在你登录的 OpenAI 账号上；购买礼品卡可在装有支付宝的手机上完成；兑换礼品卡和完成 iOS 内购需要 iPhone 或 iPad。
+**适合谁：** 有 iPhone 或 iPad、愿意准备一个美区 Apple ID 的人。订阅最终绑定在你登录的 OpenAI 账号上，开通后网页端、Mac、安卓都能正常使用；只有购买礼品卡、兑换和完成 Apple 内购这几步需要苹果设备。
 
 **先分清两个不同的动作：**
 
