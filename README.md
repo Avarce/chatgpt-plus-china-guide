@@ -1,9 +1,11 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 8 月 14 日 · 本次核对第三方充值渠道与售后条款；价格与政策以官网 / 下单页最新显示为准。
+> 最后更新：2026 年 9 月 2 日 · 新增 OpenAI Gift Card 与 Apple Gift Card 区分及官方礼品卡指南；价格与政策以官网 / 下单页最新显示为准。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
+
+> **2026 年 9 月新变化：** 本文实测的是 Apple Gift Card。OpenAI 新上线的 Gift Card 是另一种产品，兑换后进入 ChatGPT Wallet；购买渠道、适用限制和兑换步骤见：[OpenAI Gift Card 购买与兑换指南（2026）](https://github.com/Avarce/openai-gift-card-guide)。
 
 [直接查看支付宝买美区 Apple 礼品卡的 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
