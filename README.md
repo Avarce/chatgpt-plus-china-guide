@@ -1,25 +1,21 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 9 月 2 日 · 新增 OpenAI Gift Card 与 Apple Gift Card 区分及官方礼品卡指南；价格与政策以官网 / 下单页最新显示为准。
+> 最后更新：2026 年 9 月 6 日（北京时间）· 本次更新阅读入口、套餐说明与相关教程；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
 
-> **2026 年 9 月新变化：** 本文介绍的是 Apple Gift Card。OpenAI 新上线的 Gift Card 是另一种产品，兑换后进入 ChatGPT Wallet(但目前尚未正式开放购买)；购买渠道、适用限制和兑换步骤见：[OpenAI Gift Card 购买与兑换指南（2026）](https://github.com/Avarce/openai-gift-card-guide)。
+> **先分清两种礼品卡：** 本文实测的是 **Apple Gift Card → Apple 账户余额 → ChatGPT iOS 订阅**。OpenAI Gift Card 则兑换到 **ChatGPT Wallet**，用于符合条件的网页结账。[OpenAI 官方](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)已说明部分零售商提供数字卡，但帮助页尚未列出商家名称或购买链接；最新核对结果见 [OpenAI Gift Card 购买与兑换指南](https://github.com/Avarce/openai-gift-card-guide)。
 
 [直接查看支付宝买美区 Apple 礼品卡的 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
-一句话说明这篇文章想干的事：帮你把 ChatGPT Plus 稳稳开起来、少花冤枉钱、别踩坑——哪怕你最后一个第三方服务都不用。
+本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
-先说清楚： 我们自己也运营一个 ChatGPT / Claude 充值服务 AONIR（官网：aonir.com；见下文「我们的服务」）。但这份指南不是软文，它把每条路的真实成本、操作难度和风险都摊开讲，让你自己选。文中所有关于我们的数字都放在一个独立小节里，绝不混进「客观对比」里假装中立。
-
-> **不想折腾 Apple ID 或礼品卡？**
+> **希望用微信充值到自己的 ChatGPT 账号？**
 >
-> AONIR（aonir.com）支持微信支付，采用 Apple 订阅渠道，ChatGPT Plus 充值到用户本人账号，不需要账号密码。目前未遇到因充值导致的封号情况；账号限制、封禁或验证要求由 OpenAI 决定，请勿共享、出租或转售账号。
+> AONIR ChatGPT Plus **¥168 / 月**，微信支付、自助下单，无需提供账号密码；提供 30 天掉订阅质保，具体处理方式见下方服务说明。
 >
-> ChatGPT Plus 提供 30 天掉订阅质保。账号仍能正常登录但 Plus 权益提前失效，经核实符合售后条款后，按订单实付金额和剩余有效天数退回实付款。
->
-> [查看 ChatGPT Plus ¥168 套餐与下单流程 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)
+> **[查看 Plus 套餐与账号要求 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
 
 ## 目录
 
@@ -41,11 +37,11 @@
 
 | 你的情况 | 直接选 | 为什么 |
 | --- | --- | --- |
-| 手里有海外信用卡 / 能刷海外亲友的卡 | 路线 A（官方直付） | 最正规、最便宜，绑自己账号，没有任何中间商 |
-| 有 iPhone / iPad，愿意准备一个美区 Apple ID | 路线 C（支付宝买美区礼品卡） | 账单州选 Oregon（OR）免销售税；Pockyt 实测 $20 礼品卡 ¥135.98，可覆盖 $19.99 内购 |
-| 技术型、未来还要订 Netflix / Spotify / Claude 等 | 路线 B（海外虚拟卡） | 一卡多用；但 2026 年国内友好的平台基本团灭，门槛已很高 |
-| 怕折腾、想用微信几分钟搞定 | 路线 D（第三方代充） | 对大多数非技术用户是最现实的路；前提是会挑平台（本文教你怎么挑） |
-| 预算极紧、且完全不在意隐私 | 不要买共享号 | 这不是一条正经的路，省的钱和风险完全不成比例，理由见文末 |
+| 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
+| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 4 步实测图](#支付宝买美区礼品卡实测流程附截图) | 2026 年 7 月实测 $20 礼品卡实付 ¥135.98；当前按购卡和结账页面核对金额 |
+| 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
+| 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus 自助充值、Pro 咨询安排，按需要选择 |
+| 想了解共享号与本人账号的区别 | [查看账号与售后说明](#一个关键概念掉订阅--封号) | 先分清账号归属、会员状态和服务范围 |
 
 只想快点开、不想读细节的，直接跳到[路线 C 的支付宝实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
@@ -69,7 +65,7 @@
 | --- | --- | --- | --- |
 | Free | $0 | 轻度、偶尔问问题 | 能用最新一代基础模型，但有额度墙；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
-| Plus | $20 / 月 | 绝大多数人 | 自 2023 年至今没涨过价；含旗舰模型、Deep Research、Codex、Agent 等完整功能 |
+| Plus | $20 / 月 | 日常工作、学习与个人编程 | 更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
 | Pro | $100 / 月 | 重度个人用户 | 2026 年新拆出来的中间档，Plus 额度不够、又不想上 $200 时选（约 5× Plus 额度） |
 | Pro | $200 / 月 | 极重度 / 专业 | 最高额度（约 20× Plus）、Operator 智能体、高级语音等；用不满就是浪费 |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
@@ -77,8 +73,8 @@
 几个容易被忽略的点：
 
 - iOS 内购的 Plus 标价是 $19.99/月（网页端官网是 $20/月）。先把美区 Apple ID 的账单州设为 **Oregon（OR）**；Oregon 不征一般销售税，结算页应显示 $19.99，不再额外加税。按 2026-07-18 的汇率截图，$19.99 约合 ¥135.40；我通过支付宝 Pockyt 实付 ¥135.98 买到一张 $20 美区礼品卡。前者是即时汇率换算，后者才是本次真实付款金额；兑换后可支付一个月并剩 $0.01。订阅只能在 Apple ID 里管理，网页端管不了。
-- GPT-5.6（Sol / Terra / Luna）已于 2026 年 7 月 9 日上线 ChatGPT，Plus 可用 GPT-5.6 Sol；日常默认仍是更快的 GPT-5.5 Instant。也就是说，$20 的 Plus 现在能摸到最新旗舰模型，这一档的性价比是这几年最高的。
-- 90% 的个人用户，Plus 就是终点。 判断要不要上 Pro 很简单：正常用一周，数一数「你已达到使用上限」弹了几次。一次都没有，就别升。
+- 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。
+- 判断要不要上 Pro，可以先记录一周内触及用量上限的频率，以及是否影响工作；目前的额度够用时，可以继续使用现有套餐。
 
 ## 四条路，逐条讲真实成本与风险
 
@@ -181,7 +177,9 @@
 
 **收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
 
-**小提示：** 新切区的 Apple ID 有时要先在 App Store 有过一次真实活动（下载个免费 App 或兑换一张小额礼品卡）才算「激活」，激活后再去订阅更顺。
+**付款后仍显示 Free？** 先核对 ChatGPT 登录账号和登录方式，再到 App 内的 Settings → Restore purchases 恢复购买；这是 [OpenAI 官方的排查步骤](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)。
+
+如果卡在付款或会员到账，可按具体提示查看 [ChatGPT 付款失败与订阅状态排查](https://aonir.com/guides/chatgpt-payment-failed/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=ios_troubleshooting)，先定位问题再操作。
 
 **优点：** 走 Apple App Store 内购；礼品卡和订阅都在自己的账号中完成；本次 $20 礼品卡实际只花 ¥135.98。
 
@@ -253,12 +251,12 @@
 
 ## 我们的服务：AONIR
 
-- **平台 / 官网：** [aonir.com](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide)
+- **平台 / 官网：** [aonir.com](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=brand_home)
 - **支付方式：** 微信支付，人民币结算
 - **充值模式：** ChatGPT Plus、Claude Pro 支持自助下单 + 系统自动处理，不需要提供账号密码；ChatGPT Pro 需联系客服安排
 - **覆盖：** 会员权益充值到你本人的官方账号，可在账号支持的安卓、iOS、网页及桌面端使用，具体以对应平台规则为准
 - **ChatGPT Plus 入口：** [查看 ¥168 套餐与下单流程](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section)，可自助下单，无需先加微信询价。
-- **售后：** ChatGPT Plus 提供 30 天掉订阅质保；符合条件时按剩余有效天数退回实际款项。
+- **售后：** ChatGPT Plus 提供 30 天掉订阅质保。账号仍能正常登录但 Plus 权益提前失效，经核实符合售后条款后，按订单实付金额和剩余有效天数处理退款。
 
 为什么会有人在能自己买礼品卡的情况下还选代充？ 说白了是拿一点点差价换「零折腾」：不用苹果设备、不用切区、微信付一下就行，还能顺带解决 Claude Pro / ChatGPT Pro。
 
@@ -294,7 +292,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### Q：Plus 和 Pro 怎么选？
 
-绝大多数人 Plus（$20）够用。正常用一周，数「达到上限」弹了几次，一次都没有就别升。真的天天顶格跑 Deep Research / Codex 再考虑 Pro（$100 约 5×，$200 约 20×）。想细看区别可以参考这篇 ChatGPT Free、Plus 与 Pro 怎么选。
+绝大多数人 Plus（$20）够用。正常用一周，数「达到上限」弹了几次，一次都没有就别升。真的天天顶格跑 Deep Research / Codex 再考虑 Pro（$100 约 5×，$200 约 20×）。想细看区别，可以参考 [ChatGPT Free、Plus、Pro 5× 与 20× 怎么选](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
 
 ### Q：充值失败了怎么办？
 
@@ -302,7 +300,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### Q：到期了怎么处理？
 
-看你在哪开的：官网订的在 ChatGPT Settings 里管理，iOS 订的在 Apple ID 订阅里管理；代充多是单月买断、不自动续费，想继续用再下一单即可。
+看你在哪开的：官网订的在 ChatGPT Settings 里管理，iOS 订的在 Apple ID 订阅里管理。AONIR 为单次月度充值，不绑定自动扣费；已有 Plus / Pro 也可以按订单页提示选择「覆盖续费」。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
 
 ## 附录：卡在哪一步，就看哪一段（自助排查）
 
