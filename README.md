@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 9 月 21 日（北京时间）· 本次补充 Pro 5× ¥730 微信自助充值，与 Plus 一起介绍价格、适用人群和下单流程；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
+> 最后更新：2026 年 9 月 23 日（北京时间）· 本次更新 Free 套餐的最新规则，补充 OpenAI 礼品卡说明和模型额度速查表链接；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -69,7 +69,7 @@
 
 | 套餐 | 官方价 | 适合谁 | 关键点 |
 | --- | --- | --- | --- |
-| Free | $0 | 轻度、偶尔问问题 | 能用最新一代基础模型，但有额度墙；部分地区带广告 |
+| Free | $0 | 轻度、偶尔问问题 | GPT-5.6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
 | Pro 5× | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量为 Plus 的 5× 档位，适合经常遇到用量限制的人 |
@@ -79,7 +79,7 @@
 几个容易被忽略的点：
 
 - iOS 内购的 Plus 标价是 $19.99/月（网页端官网是 $20/月）。先把美区 Apple ID 的账单州设为 **Oregon（OR）**；Oregon 不征一般销售税，结算页应显示 $19.99，不再额外加税。按 2026-07-18 的汇率截图，$19.99 约合 ¥135.40；我通过支付宝 Pockyt 实付 ¥135.98 买到一张 $20 美区礼品卡。前者是即时汇率换算，后者才是本次真实付款金额；兑换后可支付一个月并剩 $0.01。订阅只能在 Apple ID 里管理，网页端管不了。
-- 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。
+- 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。各模型每 5 小时能用多少、和 Claude 同价位怎么比，见我们整理的 [ChatGPT / Claude 速查表](https://github.com/Avarce/chatgpt-claude-cheatsheet)。
 - 判断要不要上 Pro，可以先记录一周内触及用量上限的频率，以及是否影响工作；目前的额度够用时，可以继续使用现有套餐。
 
 ## 四条路，逐条讲真实成本与风险
@@ -296,7 +296,7 @@
 
 ### Q：微信 / 支付宝能直接付给 OpenAI 吗？
 
-不能。OpenAI 官方只收国际信用卡，以及 Apple / Google 的应用内购买。所有「微信直充 ChatGPT」本质上都是第三方在中间转了一道。
+不能。OpenAI 官方收的是国际信用卡、Apple / Google 的应用内购买，以及在美国销售的 OpenAI 礼品卡（官方规定人在美国、用美元计费的账号兑换，详见 [OpenAI Gift Card 指南](https://github.com/Avarce/openai-gift-card-guide)）。所有「微信直充 ChatGPT」本质上都是第三方在中间转了一道。
 
 ### Q：用国内信用卡到底能不能成功？
 
