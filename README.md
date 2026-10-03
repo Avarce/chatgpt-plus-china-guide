@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 9 月 23 日（北京时间）· 本次更新 Free 套餐的最新规则，补充 OpenAI 礼品卡说明和模型额度速查表链接；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
+> 最后更新：2026 年 10 月 3 日（北京时间）· 本次按 OpenAI 9 月 29 日的调整更新 Pro 档位：Pro 现在分 $100 / $200 / $500 三档，分别是 Plus 的 5、10、25 倍；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -73,9 +73,12 @@
 | Free | $0 | 轻度、偶尔问问题 | GPT-5.6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
-| Pro 5× | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量为 Plus 的 5× 档位，适合经常遇到用量限制的人 |
-| Pro 20× | $200 / 月 | 持续高强度使用的个人用户 | Work / Codex 用量为 Plus 的 20× 档位，按实际需求选择 |
+| Pro 100（即 Pro 5×） | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量是 Plus 的 5 倍，没有 5 小时限制，适合经常遇到用量限制的人 |
+| Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | Plus 的 10 倍，没有 5 小时限制。9 月 29 日重新开放，新订阅由原来的 20 倍改为 10 倍 |
+| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | Plus 的 25 倍，另有 Astra Ultrafast |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
+
+Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。
 
 几个容易被忽略的点：
 
@@ -264,14 +267,14 @@
 
 ### ChatGPT Plus 与 Pro 5×：价格与选择
 
-以下为 **2026 年 9 月 21 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
+以下为 **2026 年 10 月 3 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
 
 | 套餐 | AONIR 价格 | 适合谁 | 自助充值入口 |
 | --- | --- | --- | --- |
 | ChatGPT Plus | **¥168 / 月** | 日常写作、学习、办公与个人编程，当前用量基本够用 | [查看 Plus 套餐与账号要求](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section) |
 | **ChatGPT Pro 5×** | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 5× 套餐并自助充值](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
 
-**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 5×。按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 5× 提供 Plus 的 5 倍 Work / Codex 用量，Work 与 Codex 共用这部分额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
+**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 5×。Pro 5× 就是官方的 Pro 100，提供 Plus 的 5 倍 Work / Codex 用量，Work 与 Codex 共用这部分额度；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
 
 **两档的下单流程相同：**
 
@@ -283,7 +286,7 @@
 - **续费说明：** 一次购买生效一个月，不绑定自动扣费。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
 - **售后说明：** Plus / Pro 5× 提供 30 天掉订阅质保。账号仍可正常登录但订阅权益提前失效，经核实符合条款后，按剩余有效期折算退款；账号封禁或平台限制不属于掉订阅保障。具体以产品页和服务条款为准。
 
-**当前介绍的自助 Pro 档位为 5×。** AONIR 的 20× 目前暂停充值，恢复时间以产品页为准。价格、库存与可用套餐在下单前再次核对。
+**当前介绍的自助 Pro 档位为 5×。** AONIR 的 10 倍 Pro（官方 Pro 200，原 20×）目前暂停充值，恢复时间以产品页为准。价格、库存与可用套餐在下单前再次核对。
 
 ## 充完之后：账号是你自己的，记住这几条
 
@@ -317,7 +320,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### Q：Plus 和 Pro 怎么选？
 
-先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 5×。AONIR 当前 **Plus ¥168 / 月、Pro 5× ¥730 / 月**，两档均支持微信自助充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus、Pro 5× 与 20× 怎么选](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
+先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 5×。AONIR 当前 **Plus ¥168 / 月、Pro 5× ¥730 / 月**，两档均支持微信自助充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus 与 Pro 怎么选：Pro 100、200、500 的区别](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
 
 ### Q：充值失败了怎么办？
 
