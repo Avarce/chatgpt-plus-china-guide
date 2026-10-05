@@ -83,7 +83,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 几个容易被忽略的点：
 
 - iOS 内购的 Plus 标价是 $19.99/月（网页端官网是 $20/月）。先把美区 Apple ID 的账单州设为 **Oregon（OR）**；Oregon 不征一般销售税，结算页应显示 $19.99，不再额外加税。按 2026-07-18 的汇率截图，$19.99 约合 ¥135.40；我通过支付宝 Pockyt 实付 ¥135.98 买到一张 $20 美区礼品卡。前者是即时汇率换算，后者才是本次真实付款金额；兑换后可支付一个月并剩 $0.01。订阅只能在 Apple ID 里管理，网页端管不了。
-- 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。各模型每 5 小时能用多少、和 Claude 同价位怎么比，见我们整理的 [ChatGPT / Claude 速查表](https://github.com/Avarce/chatgpt-claude-cheatsheet)。Codex 装不上、登录要验证手机号、终端连不上，见 [Codex 国内使用与报错速查](https://github.com/Avarce/codex-china-guide)。
+- 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。Codex 装不上、登录要验证手机号、终端连不上，见 [Codex 国内使用与报错速查](https://github.com/Avarce/codex-china-guide)。
 - 判断要不要上 Pro，可以先记录一周内触及用量上限的频率，以及是否影响工作；目前的额度够用时，可以继续使用现有套餐。
 
 ## 四条路，逐条讲真实成本与风险
