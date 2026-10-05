@@ -187,6 +187,8 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
 
+**付款时弹出「购买未完成，提交申请至 Apple 支持以供审核」？** 这是 Apple 的购买审核，先别反复点。处理步骤和找到 Apple 在线客服的入口见[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
+
 **付款后仍显示 Free？** 先核对 ChatGPT 登录账号和登录方式，再到 App 内的 Settings → Restore purchases 恢复购买；这是 [OpenAI 官方的排查步骤](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)。
 
 如果卡在付款或会员到账，可按具体提示查看 [ChatGPT 付款失败与订阅状态排查](https://aonir.com/guides/chatgpt-payment-failed/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=ios_troubleshooting)，先定位问题再操作。
