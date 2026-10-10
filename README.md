@@ -11,15 +11,17 @@
 
 本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
-> **希望用微信充值到自己的 ChatGPT 账号？Plus / Pro 5× 都可自助下单。**
+> **希望用微信充值到自己的 ChatGPT 账号？Plus / Pro 5× 可自助下单，Pro 10×（原 20×）联系客服充值。**
 >
 > **ChatGPT Plus：¥168 / 月**，适合日常工作、学习与个人编程。
 >
 > **ChatGPT Pro 5×：¥730 / 月**，适合经常使用 Work / Codex、Plus 用量已影响工作的人。
 >
-> 两档均支持微信支付、本人账号充值，无需提供登录密码；账号要求和售后范围见下方服务说明。
+> **ChatGPT Pro 10×（官方 Pro 200，原 20×）：¥1350 / 月**，适合 5× 也经常用完的重度用户，联系客服充值。
 >
-> **[查看 Plus 套餐与账号要求 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[查看 Pro 5× 套餐与自助充值 →](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
+> 三档均为微信支付、本人账号充值，无需提供登录密码；账号要求和售后范围见下方服务说明。
+>
+> **[查看 Plus 套餐与账号要求 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[查看 Pro 5× 套餐与自助充值 →](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[查看 Pro 10× →](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
 
 ## 目录
 
@@ -34,7 +36,7 @@
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
 - [几种方式成本对比](#一张表看懂几种方式)
 - [我们的服务：AONIR](#我们的服务aonir)
-- [Plus 与 Pro 5×：价格与选择](#aonir-plus-pro)
+- [Plus、Pro 5× 与 Pro 10×：价格与选择](#aonir-plus-pro)
 - [常见问题](#常见问题-faq)
 - [付款失败自助排查](#附录卡在哪一步就看哪一段自助排查)
 
@@ -45,7 +47,7 @@
 | 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
 | 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 4 步实测图](#支付宝买美区礼品卡实测流程附截图) | 2026 年 7 月实测 $20 礼品卡实付 ¥135.98；当前按购卡和结账页面核对金额 |
 | 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
-| 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 5× ¥730 / 月，均支持微信自助充值 |
+| 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 5× ¥730 / 月，均支持微信自助充值；Pro 10×（原 20×）¥1350 / 月，联系客服充值 |
 | 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 5×](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
 | 用 Codex 写代码，卡在安装、登录、手机号验证或报错 | [Codex 国内使用与报错速查](https://github.com/Avarce/codex-china-guide) | 按报错原文查原因和处理顺序，每条附官方出处 |
 | 想了解共享号与本人账号的区别 | [查看账号与售后说明](#一个关键概念掉订阅--封号) | 先分清账号归属、会员状态和服务范围 |
@@ -290,20 +292,21 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 ## 我们的服务：AONIR
 
-[AONIR](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=brand_home) 是本文维护方，提供充值到本人账号的独立第三方会员服务。**ChatGPT Plus 与 Pro 5× 均已支持微信支付、自助下单**，不需要先联系客服询价。
+[AONIR](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=brand_home) 是本文维护方，提供充值到本人账号的独立第三方会员服务。**ChatGPT Plus 与 Pro 5× 均已支持微信支付、自助下单**，不需要先联系客服询价；Pro 10×（官方 Pro 200，原 20×）联系客服充值。
 
 <a id="aonir-plus-pro"></a>
 
-### ChatGPT Plus 与 Pro 5×：价格与选择
+### ChatGPT Plus、Pro 5× 与 Pro 10×：价格与选择
 
 以下为 **2026 年 10 月 10 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
 
-| 套餐 | AONIR 价格 | 适合谁 | 自助充值入口 |
+| 套餐 | AONIR 价格 | 适合谁 | 充值入口 |
 | --- | --- | --- | --- |
 | ChatGPT Plus | **¥168 / 月** | 日常写作、学习、办公与个人编程，当前用量基本够用 | [查看 Plus 套餐与账号要求](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section) |
 | **ChatGPT Pro 5×** | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 5× 套餐并自助充值](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
+| **ChatGPT Pro 10×**（官方 Pro 200，原 20×） | **¥1350 / 月** | 5× 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 10×，联系客服充值](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
 
-**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 5×。Pro 5× 就是官方的 Pro 100，提供 Plus 的 5 倍 Work / Codex 用量，Work 与 Codex 共用这部分额度；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
+**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 5×；5 倍还不够用，再看 Pro 10×（Plus 的 10 倍）。Pro 5× 就是官方的 Pro 100，提供 Plus 的 5 倍 Work / Codex 用量，Work 与 Codex 共用这部分额度；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
 
 **两档的下单流程相同：**
 
@@ -315,7 +318,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 - **续费说明：** 一次购买生效一个月，不绑定自动扣费。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
 - **售后说明：** Plus / Pro 5× 提供 30 天掉订阅质保。账号仍可正常登录但订阅权益提前失效，经核实符合条款后，按剩余有效期折算退款；账号封禁或平台限制不属于掉订阅保障。具体以产品页和服务条款为准。
 
-**自助下单的 Pro 档位是 5×。** AONIR 的 10 倍 Pro（官方 Pro 200，原 20×）为 **¥1350 / 月**，自动充值渠道维护中，需要的话请联系客服充值，入口在 [Pro 产品页](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x)。价格、库存与可用套餐在下单前再次核对。
+**自助下单的档位是 Plus 和 Pro 5×。** Pro 10×（官方 Pro 200，原 20×）的自动充值渠道维护中，目前由客服处理：在产品页选 10× 档，按页面提示联系客服即可。价格、库存与可用套餐在下单前再次核对。
 
 ## 充完之后：账号是你自己的，记住这几条
 
@@ -349,7 +352,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### Q：Plus 和 Pro 怎么选？
 
-先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 5×。AONIR 当前 **Plus ¥168 / 月、Pro 5× ¥730 / 月**，两档均支持微信自助充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus 与 Pro 怎么选：Pro 100、200、500 的区别](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
+先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 5×。AONIR 当前 **Plus ¥168 / 月、Pro 5× ¥730 / 月**，两档均支持微信自助充值；**Pro 10×（原 20×）¥1350 / 月**，联系客服充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus 与 Pro 怎么选：Pro 100、200、500 的区别](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
 
 ### Q：充值失败了怎么办？
 
