@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 3 日（北京时间）· 本次按 OpenAI 9 月 29 日的调整更新 Pro 档位：Pro 现在分 $100 / $200 / $500 三档，分别是 Plus 的 5、10、25 倍；Apple 礼品卡价格和截图保留 2026 年 7 月实测记录。
+> 最后更新：2026 年 10 月 10 日（北京时间）· 本次补充支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)（附 2 张截图，来自读者 10 月 9 日的反馈），并按 OpenAI 10 月 7 日的调整更新套餐表：普通对话已换成 GPT-6。Apple 礼品卡价格和原有截图保留 2026 年 7 月实测记录。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -70,12 +70,12 @@
 
 | 套餐 | 官方价 | 适合谁 | 关键点 |
 | --- | --- | --- | --- |
-| Free | $0 | 轻度、偶尔问问题 | GPT-5.6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
+| Free | $0 | 轻度、偶尔问问题 | 10 月 8 日起普通对话用 GPT-6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
-| Plus | $20 / 月 | 日常工作、学习与个人编程 | 更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
+| Plus | $20 / 月 | 日常工作、学习与个人编程 | 10 月 7 日起普通对话用 GPT-6，可选到 High 档；更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
 | Pro 100（即 Pro 5×） | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量是 Plus 的 5 倍，没有 5 小时限制，适合经常遇到用量限制的人 |
 | Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | Plus 的 10 倍，没有 5 小时限制。9 月 29 日重新开放，新订阅由原来的 20 倍改为 10 倍 |
-| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | Plus 的 25 倍，另有 Astra Ultrafast |
+| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | Plus 的 25 倍，另有 Ultrafast 高速档 |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
 
 Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。
@@ -144,6 +144,8 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **大致流程：** 支付宝切换到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → 选择 App Store & iTunes USA 的 $20 礼品卡 → 填写收码邮箱并用支付宝付款 → 美区 Apple ID 账单州设为 Oregon（OR）→ 在 App Store 兑换礼品卡 → iOS 版 ChatGPT App 内升级 Plus，确认结算总额为 $19.99。
 
+在支付宝里找不到 Coupons、「大牌礼卡」或者搜不到 Pockyt，可以用[直达链接](#pockyt-direct-link)直接打开 Pockyt Shop。
+
 买礼品卡的来源是最关键的一步，直接决定你会不会被封号：
 
 - **推荐：** 支付宝里的官方合作渠道（Pockyt）。 来源正规、汇率透明，基本不会买到黑卡。下面是我实测的完整流程和截图。
@@ -184,6 +186,31 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
     </td>
   </tr>
 </table>
+
+<a id="pockyt-direct-link"></a>
+
+#### 找不到「大牌礼卡」或搜不到 Pockyt：用直达链接
+
+2026 年 10 月 9 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈：支付宝切到美国城市后，界面里找不到「大牌礼卡」，搜索也搜不到 Pockyt。遇到这种情况，跳过上面的第 ①、② 步，用链接直接进 Pockyt Shop：
+
+```
+https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/pockyt-direct-step1-link.jpg" width="250" alt="在支付宝搜索框粘贴 Pockyt Shop 直达链接，点搜索结果里的访问网页"><br>
+      <b>①</b> 复制上面的链接，粘贴到支付宝<b>顶部搜索框</b>，点结果里的<b>访问网页</b>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/pockyt-direct-step2-shop.jpg" width="250" alt="通过直达链接打开的 Pockyt Shop 首页，地区选美国后可以看到 App Store & iTunes 礼品卡"><br>
+      <b>②</b> 直接进入 Pockyt Shop。<b>地区选美国</b>，点 <b>App Store &amp; iTunes</b>，之后和上面的第 ③、④ 步一样
+    </td>
+  </tr>
+</table>
+
+这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后，页面右上角有星标，可以把 Pockyt Shop 收藏起来，下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
 
 **收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
 
@@ -269,7 +296,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 ### ChatGPT Plus 与 Pro 5×：价格与选择
 
-以下为 **2026 年 10 月 3 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
+以下为 **2026 年 10 月 10 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
 
 | 套餐 | AONIR 价格 | 适合谁 | 自助充值入口 |
 | --- | --- | --- | --- |
@@ -288,7 +315,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 - **续费说明：** 一次购买生效一个月，不绑定自动扣费。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
 - **售后说明：** Plus / Pro 5× 提供 30 天掉订阅质保。账号仍可正常登录但订阅权益提前失效，经核实符合条款后，按剩余有效期折算退款；账号封禁或平台限制不属于掉订阅保障。具体以产品页和服务条款为准。
 
-**当前介绍的自助 Pro 档位为 5×。** AONIR 的 10 倍 Pro（官方 Pro 200，原 20×）目前暂停充值，恢复时间以产品页为准。价格、库存与可用套餐在下单前再次核对。
+**自助下单的 Pro 档位是 5×。** AONIR 的 10 倍 Pro（官方 Pro 200，原 20×）为 **¥1350 / 月**，自动充值渠道维护中，需要的话请联系客服充值，入口在 [Pro 产品页](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x)。价格、库存与可用套餐在下单前再次核对。
 
 ## 充完之后：账号是你自己的，记住这几条
 
