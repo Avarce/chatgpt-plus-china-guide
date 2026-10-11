@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 11 日（北京时间）· 本次逐项核对：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化；Pro 10× 的办理方式更新为客服开通。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。Apple 礼品卡价格和原有截图保留 2026 年 7 月实测记录。
+> 最后更新：2026 年 10 月 12 日（北京时间）· 本次新增[付款方式里没有 None 怎么办](#apple-id-none)（来自读者 10 月 11 日的反馈）。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化；Pro 10× 的办理方式更新为客服开通。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。Apple 礼品卡价格和原有截图保留 2026 年 7 月实测记录。
 > 看到更新时间过久，欢迎提 Issue 催更。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -215,6 +215,10 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后，页面右上角有星标，可以把 Pockyt Shop 收藏起来，下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
 
 **收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
+
+<a id="apple-id-none"></a>
+
+**付款方式里没有 None（无）？** 先开美国节点（全局模式，尽量用干净的 IP），再重新进入付款方式页面，多数情况下 None 会出现。还是没有的话，只要礼品卡余额能正常支付，不选 None 也不影响订阅。2026 年 10 月 11 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 问到这一步。
 
 **付款时弹出「购买未完成，提交申请至 Apple 支持以供审核」？** 这是 Apple 的购买审核，先别反复点。处理步骤和找到 Apple 在线客服的入口见[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
 
