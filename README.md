@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 13 日（北京时间）· 本次复测了 $20 美区 Apple 礼品卡的价格：支付宝付款页显示 ¥134.44（7 月 18 日实付 ¥135.98），第 ④ 步截图换成了这次的，前三张仍是 7 月的实测截图。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化。[付款方式里没有 None 怎么办](#apple-id-none)、支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。
+> 最后更新：2026 年 10 月 16 日（北京时间）· 本次重写了[Apple ID 改美区、付款方式选 None](#apple-id-none)一节：补了 3 张实测截图，看不到 None 时按 Apple 官方说明逐项排查。10 月 13 日复测了 $20 美区 Apple 礼品卡的价格：支付宝付款页显示 ¥134.44（7 月 18 日实付 ¥135.98），第 ④ 步截图换成了这次的，前三张仍是 7 月的实测截图。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -33,6 +33,7 @@
   - [路线 B：海外虚拟信用卡](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭)
   - [路线 C：支付宝买美区 Apple 礼品卡](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)
   - [支付宝 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)
+  - [Apple ID 改美区：付款方式选 None](#apple-id-none)
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
 - [几种方式成本对比](#一张表看懂几种方式)
 - [我们的服务：AONIR](#我们的服务aonir)
@@ -131,7 +132,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 1. **在支付宝切换到美国城市**，是为了找到 Coupons 和 Pockyt 礼品卡入口。
 2. **在 App Store 使用美区 Apple ID**，是为了兑换美区礼品卡并用余额支付 ChatGPT Plus。设置账单地址时把 State 选为 **Oregon（OR）**，避免在 $19.99 上再加销售税。
 
-更省事的做法是单独准备一个美区 Apple ID，只用于 App Store 的「媒体与购买项目」；主力 iCloud 账号不必跟着改区。如果你选择把现有 Apple ID 改成美区，Apple 才会要求先用完余额、取消现有订阅并等订阅期结束。
+更省事的做法是单独准备一个美区 Apple ID，只用于 App Store 的「媒体与购买项目」；主力 iCloud 账号不必跟着改区。如果你选择把现有 Apple ID 改成美区，Apple 才会要求先用完余额、取消现有订阅并等订阅期结束。改区和付款方式选 None 的步骤见[下文](#apple-id-none)。
 
 **为什么这条路线稳定：** 付款由 Apple App Store 处理，不走 OpenAI 网页端的 Stripe 支付流程。礼品卡进入你自己的美区 Apple ID，ChatGPT Plus 则开通到你本人登录的 OpenAI 账号。
 
@@ -145,7 +146,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 - App Store 内购标价：账单州设为 Oregon（OR）后，结算总额应为 $19.99，不额外收销售税。
 - 按 10 月 13 日的复测，准备一个月订阅余额的成本是 **¥134.44**（7 月实付 ¥135.98）。汇率会变化，购买时以 Pockyt 和 App Store 页面显示为准。
 
-**大致流程：** 支付宝切换到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → 选择 App Store & iTunes USA 的 $20 礼品卡 → 填写收码邮箱并用支付宝付款 → 美区 Apple ID 账单州设为 Oregon（OR）→ 在 App Store 兑换礼品卡 → iOS 版 ChatGPT App 内升级 Plus，确认结算总额为 $19.99。
+**大致流程：** 支付宝切换到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → 选择 App Store & iTunes USA 的 $20 礼品卡 → 填写收码邮箱并用支付宝付款 → [Apple ID 改成美区](#apple-id-none)，付款方式选 None，账单州设为 Oregon（OR）→ 在 App Store 兑换礼品卡 → iOS 版 ChatGPT App 内升级 Plus，确认结算总额为 $19.99。
 
 在支付宝里找不到 Coupons、「大牌礼卡」或者搜不到 Pockyt，可以用[直达链接](#pockyt-direct-link)直接打开 Pockyt Shop。
 
@@ -216,13 +217,60 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后，页面右上角有星标，可以把 Pockyt Shop 收藏起来，下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
 
+<a id="apple-id-none"></a>
+
+#### Apple ID 改成美区：付款方式选 None（附截图）
+
+兑换美区礼品卡之前，Apple ID 的国家或地区要先改成美国。下面是 2026 年 10 月 16 日在电脑浏览器上的实测，全程不用绑卡。
+
+**动手前先开美国节点**，用全局模式，尽量选干净的 IP。付款方式里能不能选 None，和 Apple 判断你当前在哪里有关，原因见下面的[看不到 None 怎么办](#apple-id-none-missing)。
+
+**① 个人信息 → 国家/地区。** 打开 [account.apple.com](https://account.apple.com)（旧地址 appleid.apple.com 会跳到这里），登录要改区的 Apple ID，在「个人信息（Personal Information）」里点「国家/地区（Country / Region）」。
+
+<p align="center">
+  <img src="images/apple-id-none-step1-region.jpg" width="680" alt="在 account.apple.com 登录 Apple ID，进入 Personal Information，点 Country / Region 准备把 Apple ID 改成美区">
+</p>
+
+**② 选 United States，点 Continue。** 弹窗会提示改完地区后要更新付款方式，下一步就是。
+
+<p align="center">
+  <img src="images/apple-id-none-step2-us.jpg" width="680" alt="Country / Region 弹窗里把 Apple ID 的国家或地区选为 United States，点 Continue">
+</p>
+
+**③ 点开 Payment Type 下拉框，选最后一项 None。** 弹出「New Payment Method」时，Payment Type 默认显示 Credit / Debit Card，下面跟着一排填卡的输入框，看起来像必须绑卡。点开这个下拉框，None 在最后一项。选好后，下面的姓名和账单地址照常填写，State 选 **Oregon（OR）**，再点 Save Changes。
+
+<p align="center">
+  <img src="images/apple-id-none-step3-none.jpg" width="680" alt="美区 Apple ID 的 New Payment Method 弹窗，点开 Payment Type 下拉框后可以选 None，不用绑定信用卡">
+</p>
+
+用 iPhone 改也可以，Apple 给的路径是：设置 → 你的姓名 → 媒体与购买项目 → 国家/地区。中文界面下 None 显示为「无」。
+
+<a id="apple-id-none-missing"></a>
+
+##### 看不到 None 怎么办
+
+按下表从上往下排查。第 2 到第 5 条依据 Apple 官方支持文章：[更改 Apple 账户国家或地区](https://support.apple.com/zh-cn/118283)、[从 Apple 账户中移除付款方式](https://support.apple.com/zh-cn/118291)。
+
+| 先查什么 | 为什么没有 None | 怎么处理 |
+| --- | --- | --- |
+| 1. 有没有点开 Payment Type | None 收在下拉框里，默认显示的是 Credit / Debit Card | 点开下拉框，看最后一项 |
+| 2. 当前是不是在美国 | Apple 的说明是：改区时可能要为新地区填付款方式，不想填的话，要等本人到了那个国家或地区再操作。Apple 没写怎么判断位置，我的经验是开着美国节点时能看到 None | 开美国节点的全局模式，退出 account.apple.com 重新登录，再改一次 |
+| 3. 账号有没有欠款 | 有未付款项时，Apple 可能不让移除付款方式，只能更换 | 改区前先在原地区把欠款付清（例如国区账号绑支付宝或微信付掉），再改 |
+| 4. 有没有生效中的订阅 | 有 iCloud+ 等订阅时，账号必须至少保留一种付款方式 | 设置 → 你的姓名 → 订阅，全部取消，等当前订阅期结束再改 |
+| 5. 有没有加入家人共享 | 家庭组织者开着「购买项目共享」时必须保留付款方式；家庭成员可能根本改不了地区 | 组织者先关掉「购买项目共享」；成员先退出家庭组 |
+| 6. 选了 None，保存不了 | 账单信息没填全 | 姓名、街道、城市、State、5 位邮编、电话逐项填好，State 选 Oregon（OR） |
+
+**都排除了还是没有 None？** 换一个新注册的 Apple ID，专门用于美区 App Store，也就是上面推荐的做法。Apple 对不想填付款方式的人，给的办法也是到当地后新建账户；Apple 的[创建账户说明](https://support.apple.com/zh-cn/108647)里，填付款方式这一步同样可以选「无」。注册和第一次登录 App Store 时都开着美国节点。
+
+**点 Continue 后提示无法更改地区？** 这一步和 None 无关。按 Apple 的说明，先用完账户余额，取消订阅并等订阅期结束，等会员资格、预购、影片租借和退款都处理完；余额少于一件商品价格的，联系 Apple 支持清零。
+
+**改的是国区 Apple ID？** Apple 中文版说明写明：把地区从中国大陆改到其他国家或地区，等于同意云上贵州把你的 iCloud 内容转移到境外的 Apple 服务器，转移完成后删除境内服务器上的内容。不想动主力 iCloud，就用单独的美区 Apple ID。
+
+2026 年 10 月 11 日和 16 日都有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈这一步没有 None，这一节是据此重写的。
+
 **收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
 
 **订阅成功了？** 这条路线下个月续费前还要再充一次礼品卡。点一下右上角的 Star，下次好找回来；价格和入口有变化，也会更新在这里。
-
-<a id="apple-id-none"></a>
-
-**付款方式里没有 None（无）？** 先开美国节点（全局模式，尽量用干净的 IP），再重新进入付款方式页面，多数情况下 None 会出现。还是没有的话，只要礼品卡余额能正常支付，不选 None 也不影响订阅。2026 年 10 月 11 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 问到这一步。
 
 **付款时弹出「购买未完成，提交申请至 Apple 支持以供审核」？** 这是 Apple 的购买审核，先别反复点。处理步骤和找到 Apple 在线客服的入口见[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
 
