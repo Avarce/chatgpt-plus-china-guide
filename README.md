@@ -268,7 +268,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 2026 年 10 月 11 日和 16 日都有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈这一步没有 None，这一节是据此重写的。
 
-**收到兑换码后：** App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
+**拿到兑换码后：** 兑换码会发到下单时填的邮箱；没收到也不用急，在 Pockyt Shop 底部的「订单」里能看到这笔购买记录和兑换码。然后 App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
 
 **订阅成功了？** 这条路线下个月续费前还要再充一次礼品卡。点一下右上角的 Star，下次好找回来；价格和入口有变化，也会更新在这里。
 
@@ -280,7 +280,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 **优点：** 走 Apple App Store 内购；礼品卡和订阅都在自己的账号中完成；$20 礼品卡 10 月复测 ¥134.44（7 月实付 ¥135.98）。
 
-**缺点 / 注意：** 需要一台苹果设备和美区 Apple ID；兑换码会发到下单邮箱，邮箱必须填写准确；付款前确认账单州是 Oregon（OR）、结算总额是 $19.99；续费和取消都在 Apple ID 订阅管理里操作，不在 OpenAI。
+**缺点 / 注意：** 需要一台苹果设备和美区 Apple ID；兑换码会发到下单邮箱，也能在 Pockyt Shop 的「订单」里查看；邮箱要填自己的，填错了兑换码会发给别人；付款前确认账单州是 Oregon（OR）、结算总额是 $19.99；续费和取消都在 Apple ID 订阅管理里操作，不在 OpenAI。
 
 ### 路线 D：第三方代充（多数人最省心，但要会挑）
 
