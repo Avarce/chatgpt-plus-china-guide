@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 16 日（北京时间）· 本次重写了[Apple ID 改美区、付款方式选 None](#apple-id-none)一节：补了 3 张实测截图，看不到 None 时按 Apple 官方说明逐项排查。10 月 13 日复测了 $20 美区 Apple 礼品卡的价格：支付宝付款页显示 ¥134.44（7 月 18 日实付 ¥135.98），第 ④ 步截图换成了这次的，前三张仍是 7 月的实测截图。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。
+> 最后更新：2026 年 10 月 20 日（北京时间）· AONIR 的 Pro 两档改用官方名 Pro 100、Pro 200，Pro 200 也改为微信自助充值（¥1400 / 月）。10 月 16 日重写了[Apple ID 改美区、付款方式选 None](#apple-id-none)一节：补了 3 张实测截图，看不到 None 时按 Apple 官方说明逐项排查。10 月 13 日复测了 $20 美区 Apple 礼品卡的价格：支付宝付款页显示 ¥134.44（7 月 18 日实付 ¥135.98），第 ④ 步截图换成了这次的，前三张仍是 7 月的实测截图。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -11,17 +11,15 @@
 
 本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
-> **希望用微信充值到自己的 ChatGPT 账号？Plus / Pro 5× 可自助下单，Pro 10×（原 20×）联系客服充值。**
+> **想用微信充值到自己的 ChatGPT 账号？下面三档都能自助下单，充到本人账号，不用登录密码。**
 >
-> **ChatGPT Plus：¥168 / 月**，适合日常工作、学习与个人编程。
+> **ChatGPT Plus：¥168 / 月**，日常工作、学习与个人编程。
 >
-> **ChatGPT Pro 5×：¥730 / 月**，适合经常使用 Work / Codex、Plus 用量已影响工作的人。
+> **ChatGPT Pro 100（5×）：¥730 / 月**，用量约为 Plus 的 5 倍，Plus 不够用时再选。
 >
-> **ChatGPT Pro 10×（官方 Pro 200，原 20×）：¥1350 / 月**，适合 5× 也经常用完的重度用户，联系客服充值。
+> **ChatGPT Pro 200（10×）：¥1400 / 月**，用量约为 Plus 的 10 倍，适合 Pro 100 也常用完的重度用户。
 >
-> 三档均为微信支付、本人账号充值，无需提供登录密码；账号要求和售后范围见下方服务说明。
->
-> **[查看 Plus 套餐与账号要求 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[查看 Pro 5× 套餐与自助充值 →](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[查看 Pro 10× →](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
+> **[Plus 充值 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[Pro 100 充值 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[Pro 200 充值 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · **[Pro 500 开通 →](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_500_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
 
 ## 目录
 
@@ -37,7 +35,7 @@
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
 - [几种方式成本对比](#一张表看懂几种方式)
 - [我们的服务：AONIR](#我们的服务aonir)
-- [Plus、Pro 5× 与 Pro 10×：价格与选择](#aonir-plus-pro)
+- [Plus、Pro 100 与 Pro 200：价格与选择](#aonir-plus-pro)
 - [常见问题](#常见问题-faq)
 - [付款失败自助排查](#附录卡在哪一步就看哪一段自助排查)
 
@@ -48,8 +46,8 @@
 | 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
 | 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 4 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
 | 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
-| 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 5× ¥730 / 月，均支持微信自助充值；Pro 10×（原 20×）¥1350 / 月，联系客服充值 |
-| 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 5×](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
+| 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 100 ¥730 / 月、Pro 200 ¥1400 / 月，均支持微信自助充值 |
+| 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 100](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
 | 用 Codex 写代码，卡在安装、登录、手机号验证或报错 | [Codex 国内使用与报错速查](https://github.com/Avarce/codex-china-guide) | 按报错原文查原因和处理顺序，每条附官方出处 |
 | 想了解共享号与本人账号的区别 | [查看账号与售后说明](#一个关键概念掉订阅--封号) | 先分清账号归属、会员状态和服务范围 |
 
@@ -76,9 +74,9 @@
 | Free | $0 | 轻度、偶尔问问题 | 10 月 8 日起普通对话用 GPT-6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 10 月 7 日起普通对话用 GPT-6，可选到 High 档；更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
-| Pro 100（即 Pro 5×） | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量是 Plus 的 5 倍，没有 5 小时限制，适合经常遇到用量限制的人 |
-| Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | Plus 的 10 倍，没有 5 小时限制。9 月 29 日重新开放，新订阅由原来的 20 倍改为 10 倍 |
-| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | Plus 的 25 倍，另有 Ultrafast 高速档 |
+| Pro 100（5×） | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 5 倍，目前没有 5 小时限制，适合经常遇到用量限制的人 |
+| Pro 200（10×） | $200 / 月 | 持续高强度使用的个人用户 | 用量约为 Plus 的 10 倍，目前没有 5 小时限制。9 月 29 日重新开放，新订阅的额度比原来的 20 倍低 |
+| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | 用量约为 Plus 的 25 倍，另有 Ultrafast 高速档 |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
 
 Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。
@@ -348,33 +346,33 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 ## 我们的服务：AONIR
 
-[AONIR](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=brand_home) 是本文维护方，提供充值到本人账号的独立第三方会员服务。**ChatGPT Plus 与 Pro 5× 均已支持微信支付、自助下单**，不需要先联系客服询价；Pro 10×（官方 Pro 200，原 20×）联系客服充值。
+[AONIR](https://aonir.com/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=brand_home) 是本文维护方，提供充值到本人账号的独立第三方会员服务。**ChatGPT Plus、Pro 100 与 Pro 200 均支持微信支付、自助下单**，不需要先联系客服询价。
 
 <a id="aonir-plus-pro"></a>
 
-### ChatGPT Plus、Pro 5× 与 Pro 10×：价格与选择
+### ChatGPT Plus、Pro 100 与 Pro 200：价格与选择
 
-以下为 **2026 年 10 月 11 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
+以下为 **2026 年 10 月 20 日核对的 AONIR 人民币服务价格**，均为一次性月度充值：
 
 | 套餐 | AONIR 价格 | 适合谁 | 充值入口 |
 | --- | --- | --- | --- |
 | ChatGPT Plus | **¥168 / 月** | 日常写作、学习、办公与个人编程，当前用量基本够用 | [查看 Plus 套餐与账号要求](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section) |
-| **ChatGPT Pro 5×** | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 5× 套餐并自助充值](https://aonir.com/chatgpt-pro/?plan=5x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
-| **ChatGPT Pro 10×**（官方 Pro 200，原 20×） | **¥1350 / 月** | 5× 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 10×，联系客服充值](https://aonir.com/chatgpt-pro/?plan=20x&utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
+| **ChatGPT Pro 100**（5×） | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 100 并自助充值](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
+| **ChatGPT Pro 200**（10×） | **¥1400 / 月** | Pro 100 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 200 并自助充值](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
 
-**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 5×；5 倍还不够用，再看 Pro 10×（Plus 的 10 倍）。Pro 5× 就是官方的 Pro 100，提供 Plus 的 5 倍 Work / Codex 用量，Work 与 Codex 共用这部分额度；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
+**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 100（用量约为 Plus 的 5 倍）；还不够用，再看 Pro 200（约为 10 倍）。Work 与 Codex 共用套餐用量；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
 
-**两档的下单流程相同：**
+**三档的下单流程相同：**
 
-1. 打开对应产品页，确认套餐、账号要求与当前库存；Pro 链接直接选择 **5×** 档位。
+1. 打开对应产品页，确认账号要求与当前库存。
 2. 填写用于订单查询和售后的联系方式，通过微信完成付款。
 3. 按订单页指引提交本次充值所需信息，无需提供 ChatGPT 登录密码；完成后在自己的 ChatGPT 账号中核对套餐与有效期。
 
 - **本人账号使用：** 不提供共享账号。会员权益生效在你自己的 ChatGPT 账号，可在该账号支持的网页、桌面及移动端使用。
 - **续费说明：** 一次购买生效一个月，不绑定自动扣费。会员时长不会叠加。如需在到期前充值，建议临近到期再操作。
-- **售后说明：** Plus / Pro 5× 提供 30 天掉订阅质保。账号仍可正常登录但订阅权益提前失效，经核实符合条款后，按剩余有效期折算退款；账号封禁或平台限制不属于掉订阅保障。具体以产品页和服务条款为准。
+- **售后说明：** Plus、Pro 100、Pro 200 均提供 30 天掉订阅质保。账号仍可正常登录但订阅权益提前失效，经核实符合条款后，按剩余有效期折算退款；账号封禁或平台限制不属于掉订阅保障。具体以产品页和服务条款为准。
 
-**自助下单的档位是 Plus 和 Pro 5×。** Pro 10×（官方 Pro 200，原 20×）由客服开通：在产品页选 10× 档，按页面提示联系客服，确认账号后办理。10× 目前只能充到免费版账号，也就是账号上没有生效中的 Plus 或 Pro；已经有会员的，等到期后再联系客服。价格、库存与可用套餐在下单前再次核对。
+已有 Go / Plus / Pro 未到期也能覆盖充值，会员时长不叠加，建议临近到期再操作。另有 Pro 500（¥3500 / 月），由客服确认账号后开通。价格与库存以下单页为准。
 
 ## 充完之后：账号是你自己的，记住这几条
 
@@ -408,7 +406,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### Q：Plus 和 Pro 怎么选？
 
-先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 5×。AONIR 当前 **Plus ¥168 / 月、Pro 5× ¥730 / 月**，两档均支持微信自助充值；**Pro 10×（原 20×）¥1350 / 月**，联系客服充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus 与 Pro 怎么选：Pro 100、200、500 的区别](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
+先看一周内是否经常触及用量上限。日常写作、学习和编程可以先选 Plus；如果 Work / Codex 经常因用量耗尽中断，再考虑 Pro 100。AONIR 当前 **Plus ¥168 / 月、Pro 100 ¥730 / 月、Pro 200 ¥1400 / 月**，三档均支持微信自助充值，入口见 [上方套餐表](#aonir-plus-pro)。更详细的权益差异见 [ChatGPT Free、Plus 与 Pro 怎么选：Pro 100、200、500 的区别](https://aonir.com/guides/chatgpt-free-plus-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=plans_faq)。
 
 ### Q：充值失败了怎么办？
 
