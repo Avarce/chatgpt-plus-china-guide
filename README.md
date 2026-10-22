@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 20 日（北京时间）· AONIR 的 Pro 两档改用官方名 Pro 100、Pro 200，Pro 200 也改为微信自助充值（¥1400 / 月）。10 月 16 日重写了[Apple ID 改美区、付款方式选 None](#apple-id-none)一节：补了 3 张实测截图，看不到 None 时按 Apple 官方说明逐项排查。10 月 13 日复测了 $20 美区 Apple 礼品卡的价格：支付宝付款页显示 ¥134.44（7 月 18 日实付 ¥135.98），第 ④ 步截图换成了这次的，前三张仍是 7 月的实测截图。10 月 11 日逐项核对过：官方套餐价格、App Store 里 Plus 的内购价（$19.99）和文内链接都没有变化。支付宝里找不到 Pockyt 入口时的[直达链接](#pockyt-direct-link)见下文。
+> 最后更新：2026 年 10 月 22 日（北京时间）· 新增[付款时提示「必须提供付款信息才能继续购买」](#apple-payment-info-required)的原因和处理：Apple 按账单地址加收美国销售税，账单州不是 Oregon 时，$19.99 加税后超过 $20 礼品卡余额；把账单地址改成 Oregon 即可，不用绑卡。当天复核 App Store 里 Plus 的内购价仍是 $19.99。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -32,6 +32,7 @@
   - [路线 C：支付宝买美区 Apple 礼品卡](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)
   - [支付宝 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)
   - [Apple ID 改美区：付款方式选 None](#apple-id-none)
+  - [提示「必须提供付款信息才能继续购买」：账单地址改 Oregon](#apple-payment-info-required)
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
 - [几种方式成本对比](#一张表看懂几种方式)
 - [我们的服务：AONIR](#我们的服务aonir)
@@ -83,7 +84,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 几个容易被忽略的点：
 
-- iOS 内购的 Plus 标价是 $19.99/月（网页端官网是 $20/月）。先把美区 Apple ID 的账单州设为 **Oregon（OR）**；Oregon 不征一般销售税，结算页应显示 $19.99，不再额外加税。按 2026-07-18 的汇率截图，$19.99 约合 ¥135.40；我通过支付宝 Pockyt 实付 ¥135.98 买到一张 $20 美区礼品卡。前者是即时汇率换算，后者才是本次真实付款金额；兑换后可支付一个月并剩 $0.01。10 月 13 日复测，同一张卡的付款页显示 ¥134.44。订阅只能在 Apple ID 里管理，网页端管不了。
+- iOS 内购的 Plus 标价是 $19.99/月（网页端官网是 $20/月），10 月 22 日复核未变。美区 Apple ID 的账单州要设为 **Oregon（OR）**，Oregon 不征一般销售税；设在收税的州，$19.99 会再加销售税，$20 礼品卡就不够付了。礼品卡实付金额和完整步骤见[路线 C](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)。订阅只能在 Apple ID 里管理，网页端管不了。
 - 选套餐时先分清 **Chat、Work / Codex 和 API**：Work 与 Codex 共用用量，API 另行计费。模型入口与额度按当前账号显示判断，具体可查 [OpenAI 模型说明](https://learn.chatgpt.com/docs/models)及[计划与用量](https://learn.chatgpt.com/docs/pricing)。Codex 装不上、登录要验证手机号、终端连不上，见 [Codex 国内使用与报错速查](https://github.com/Avarce/codex-china-guide)。
 - 判断要不要上 Pro，可以先记录一周内触及用量上限的频率，以及是否影响工作；目前的额度够用时，可以继续使用现有套餐。
 
@@ -134,19 +135,20 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **为什么这条路线稳定：** 付款由 Apple App Store 处理，不走 OpenAI 网页端的 Stripe 支付流程。礼品卡进入你自己的美区 Apple ID，ChatGPT Plus 则开通到你本人登录的 OpenAI 账号。
 
+<a id="apple-billing-oregon"></a>
+
 **免税州设置：** 美区 Apple ID 的账单州选择 **Oregon（OR）**。[Oregon 州税务局](https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx)明确说明该州不征一般销售税，因此 ChatGPT iOS 内购应按页面标价 $19.99 结算。设置完成后，付款前再确认结算页总额确实是 $19.99。
 
-**本次实测成本：**
+这一步不能省。Apple 在美国按账单地址收销售税，州、县、市、区都按账单地址认定（见 Apple 开发者文档的[交易税报告字段说明](https://developer.apple.com/help/app-store-connect/reference/transaction-tax-report-fields)）。$20 礼品卡付完 $19.99 只剩 $0.01，账单地址在收税的州，加上税就超过余额，付款时会提示「必须提供付款信息才能继续购买」，处理办法见[下文](#apple-payment-info-required)。
 
-- 2026-07-18 即时汇率参考：$19.99 ≈ ¥135.40。
-- 支付宝 Pockyt 实际付款：$20 美区礼品卡 = ¥135.98。
-- 2026-10-13 复测：同一张 $20 礼品卡，支付宝付款页显示 ¥134.44（Pockyt 汇率 1 USD = 6.73527 CNY，订单金额 $19.96）。
-- App Store 内购标价：账单州设为 Oregon（OR）后，结算总额应为 $19.99，不额外收销售税。
-- 按 10 月 13 日的复测，准备一个月订阅余额的成本是 **¥134.44**（7 月实付 ¥135.98）。汇率会变化，购买时以 Pockyt 和 App Store 页面显示为准。
+**本次实测成本：** 准备一个月的订阅余额，10 月 13 日复测是 **¥134.44**（7 月 18 日实付 ¥135.98）。汇率会变化，购买时以 Pockyt 和 App Store 页面显示为准；每次的汇率和明细见下面[实测流程](#支付宝买美区礼品卡实测流程附截图)里的表。
 
-**大致流程：** 支付宝切换到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → 选择 App Store & iTunes USA 的 $20 礼品卡 → 填写收码邮箱并用支付宝付款 → [Apple ID 改成美区](#apple-id-none)，付款方式选 None，账单州设为 Oregon（OR）→ 在 App Store 兑换礼品卡 → iOS 版 ChatGPT App 内升级 Plus，确认结算总额为 $19.99。
+**完整流程（建议按这个顺序做）：**
 
-在支付宝里找不到 Coupons、「大牌礼卡」或者搜不到 Pockyt，可以用[直达链接](#pockyt-direct-link)直接打开 Pockyt Shop。
+1. **先把 Apple ID 改成美区。** 付款方式选 None，账单地址填 Oregon（OR），城市、邮编、电话也用 Oregon 的。这一步不花钱，却最容易卡住，确认选到 None 并保存成功，再去买卡。步骤和截图见 [Apple ID 改成美区](#apple-id-none)。
+2. **在支付宝买 $20 美区 App Store 礼品卡。** 切到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → App Store & iTunes USA → 填收码邮箱并付款。截图见[实测流程](#支付宝买美区礼品卡实测流程附截图)；找不到 Coupons、「大牌礼卡」或搜不到 Pockyt，用[直达链接](#pockyt-direct-link)。
+3. **在 App Store 兑换礼品卡，再到 iOS 版 ChatGPT App 里升级 Plus**，用余额付款，确认总额是 $19.99。见[拿到兑换码后](#apple-redeem-subscribe)。
+4. **付款时卡住了：** 提示「必须提供付款信息才能继续购买」，看[账单地址改 Oregon](#apple-payment-info-required)；弹出「购买未完成，提交申请至 Apple 支持以供审核」，看[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
 
 买礼品卡的来源是最关键的一步，直接决定你会不会被封号：
 
@@ -161,7 +163,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 | --- | --- |
 | 即时汇率参考（2026-07-18 17:09 UTC） | $19.99 ≈ ¥135.40 |
 | Pockyt 实际成交（2026-07-18） | $20 美区礼品卡实付 ¥135.98，汇率 1 USD = 6.81244 CNY |
-| Pockyt 付款页复测（2026-10-13 02:40 北京时间） | 同一张卡 ¥134.44，汇率 1 USD = 6.73527 CNY |
+| Pockyt 付款页复测（2026-10-13 02:40 北京时间） | 同一张卡 ¥134.44，汇率 1 USD = 6.73527 CNY，订单金额 $19.96 |
 | ChatGPT iOS 内购（账单州 Oregon） | $19.99，无额外销售税 |
 | 付款后余额 | 兑换 $20 后支付一个月，Apple ID 余额剩 $0.01 |
 
@@ -235,7 +237,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
   <img src="images/apple-id-none-step2-us.jpg" width="680" alt="Country / Region 弹窗里把 Apple ID 的国家或地区选为 United States，点 Continue">
 </p>
 
-**③ 点开 Payment Type 下拉框，选最后一项 None。** 弹出「New Payment Method」时，Payment Type 默认显示 Credit / Debit Card，下面跟着一排填卡的输入框，看起来像必须绑卡。点开这个下拉框，None 在最后一项。选好后，下面的姓名和账单地址照常填写，State 选 **Oregon（OR）**，再点 Save Changes。
+**③ 点开 Payment Type 下拉框，选最后一项 None。** 弹出「New Payment Method」时，Payment Type 默认显示 Credit / Debit Card，下面跟着一排填卡的输入框，看起来像必须绑卡。点开这个下拉框，None 在最后一项。选好后，下面的姓名和账单地址照常填写，State 选 **Oregon（OR）**，City、ZIP 和电话也填 Oregon 的，和 State 对得上，再点 Save Changes。
 
 <p align="center">
   <img src="images/apple-id-none-step3-none.jpg" width="680" alt="美区 Apple ID 的 New Payment Method 弹窗，点开 Payment Type 下拉框后可以选 None，不用绑定信用卡">
@@ -256,7 +258,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 | 3. 账号有没有欠款 | 有未付款项时，Apple 可能不让移除付款方式，只能更换 | 改区前先在原地区把欠款付清（例如国区账号绑支付宝或微信付掉），再改 |
 | 4. 有没有生效中的订阅 | 有 iCloud+ 等订阅时，账号必须至少保留一种付款方式 | 设置 → 你的姓名 → 订阅，全部取消，等当前订阅期结束再改 |
 | 5. 有没有加入家人共享 | 家庭组织者开着「购买项目共享」时必须保留付款方式；家庭成员可能根本改不了地区 | 组织者先关掉「购买项目共享」；成员先退出家庭组 |
-| 6. 选了 None，保存不了 | 账单信息没填全 | 姓名、街道、城市、State、5 位邮编、电话逐项填好，State 选 Oregon（OR） |
+| 6. 选了 None，保存不了 | 账单信息没填全 | 姓名、街道、城市、State、5 位邮编、电话逐项填好，State 选 Oregon（OR），城市和邮编也用 Oregon 的 |
 
 **都排除了还是没有 None？** 换一个新注册的 Apple ID，专门用于美区 App Store，也就是上面推荐的做法。Apple 对不想填付款方式的人，给的办法也是到当地后新建账户；Apple 的[创建账户说明](https://support.apple.com/zh-cn/108647)里，填付款方式这一步同样可以选「无」。注册和第一次登录 App Store 时都开着美国节点。
 
@@ -266,11 +268,37 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 2026 年 10 月 11 日和 16 日都有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈这一步没有 None，这一节是据此重写的。
 
-**拿到兑换码后：** 兑换码会发到下单时填的邮箱；没收到也不用急，在 Pockyt Shop 底部的「订单」里能看到这笔购买记录和兑换码。然后 App Store → 头像 → Redeem Gift Card or Code → 把兑换码充入美区 Apple ID → 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款。
+<a id="apple-redeem-subscribe"></a>
+
+**拿到兑换码后：兑换，再订阅**
+
+1. **找兑换码。** 兑换码会发到下单时填的邮箱；没收到也不用急，在 Pockyt Shop 底部的「订单」里能看到这笔购买记录和兑换码。
+2. **兑换。** App Store → 右上角头像 → Redeem Gift Card or Code（中文界面是「兑换代码」），把兑换码充入美区 Apple ID。兑换后，余额会显示在名字下面。
+3. **订阅。** 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款，付款前确认总额是 $19.99。
 
 **订阅成功了？** 这条路线下个月续费前还要再充一次礼品卡。点一下右上角的 Star，下次好找回来；价格和入口有变化，也会更新在这里。
 
 **付款时弹出「购买未完成，提交申请至 Apple 支持以供审核」？** 这是 Apple 的购买审核，先别反复点。处理步骤和找到 Apple 在线客服的入口见[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
+
+<a id="apple-payment-info-required"></a>
+
+**付款时提示「必须提供付款信息才能继续购买」，点「继续」又跳到添加付款方式？** 礼品卡余额不够付这一笔，多半是账单地址不在 Oregon，$19.99 被加了销售税。不用绑卡，把账单地址改成 Oregon 就能用余额付。
+
+2026 年 10 月 22 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈：$20 礼品卡已经充进美区 Apple ID，在 ChatGPT App 里升级时提示「必须提供付款信息才能继续购买。请登录你的 Apple 账户，然后点『账单信息』，以提供付款信息」，点「继续」后进了「添加付款方式」，还是要绑卡。把账单地址改成 Oregon，城市、邮编和电话一起换成 Oregon 的之后，用 $20 余额付成功了。
+
+为什么会这样：
+
+- Apple 按账单地址加收销售税（见上文[免税州设置](#apple-billing-oregon)）。$20 付完 $19.99 只剩 $0.01，加了税，余额就不够了。
+- 余额不够付全额时，Apple 会从你的主要付款方式扣费（[Apple 的 App、内容和订阅如何扣费](https://support.apple.com/zh-cn/118244)）。付款方式选的是 None，没有可扣的，就提示你先提供付款信息。
+
+怎么处理：
+
+1. 先看余额在不在这个 Apple ID 上：App Store → 右上角头像，有余额的话，金额显示在名字下面（[查看 Apple 账户余额](https://support.apple.com/zh-cn/119902)）。没有显示，说明礼品卡兑换到了别的 Apple ID。
+2. 改账单地址：在 [account.apple.com](https://account.apple.com) 打开「付款与配送（Payment & Shipping）」，Payment Type 仍选 None，State 选 **Oregon（OR）**，City 和 ZIP 填 Oregon 的城市和它对应的邮编，电话也用 Oregon 的。用 iPhone 改，Apple 给的路径是：设置 → 你的姓名 → 付款与配送 → 编辑（[更改 Apple 账户付款方式](https://support.apple.com/zh-cn/118293)）。
+3. 回 iOS 版 ChatGPT App 重新点 Upgrade，付款前确认总额是 $19.99。
+4. 不想改地址的话，再兑换一张礼品卡，让余额够付含税的总额。
+
+**chatgpt.com 网页端的 Apple Pay 也让绑卡？** 正常。Apple 列出的余额用途是 App Store 里的 App、App 内购买和订阅，以及 apple.com 上的产品等（[Apple 礼品卡和余额能买什么](https://support.apple.com/zh-cn/118245)），不包括其他网站。网页结账里的 Apple Pay 用的是钱包里的银行卡，礼品卡余额只能在 iOS 版 ChatGPT App 里付。
 
 **付款后仍显示 Free？** 先核对 ChatGPT 登录账号和登录方式，再到 App 内的 Settings → Restore purchases 恢复购买；这是 [OpenAI 官方的排查步骤](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)。
 
@@ -278,7 +306,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 **优点：** 走 Apple App Store 内购；礼品卡和订阅都在自己的账号中完成；$20 礼品卡 10 月复测 ¥134.44（7 月实付 ¥135.98）。
 
-**缺点 / 注意：** 需要一台苹果设备和美区 Apple ID；兑换码会发到下单邮箱，也能在 Pockyt Shop 的「订单」里查看；付款前确认账单州是 Oregon（OR）、结算总额是 $19.99；续费和取消都在 Apple ID 订阅管理里操作，不在 OpenAI。
+**缺点 / 注意：** 需要一台苹果设备和美区 Apple ID；兑换码会发到下单邮箱，也能在 Pockyt Shop 的「订单」里查看；付款前确认账单州是 Oregon（OR）、结算总额是 $19.99，否则加了税 $20 余额不够；续费和取消都在 Apple ID 订阅管理里操作，不在 OpenAI。
 
 ### 路线 D：第三方代充（多数人最省心，但要会挑）
 
@@ -431,6 +459,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 - **Your card was declined：** 十有八九用了国内发行的卡，Stripe 按 BIN 段直接拒。国内卡这条没有稳定解法，换支付方式（礼品卡 / 代充）才是正路。
 - **We were unable to authenticate your payment method（3DS 验证失败）：** 需要发卡行下发短信验证码，国内卡多半没接入海外 3DS 体系，收不到码，这关过不了。
 - **Something went wrong, please try again later：** 常见于同一 IP 短时间内多次尝试、或卡段已被标记。别硬刚，换个思路（礼品卡 / 靠谱代充）比在这里死磕划算。
+- **iOS 内购提示「必须提供付款信息才能继续购买」：** 用礼品卡余额付时最常见的原因是账单地址不在 Oregon，$19.99 加税后超过 $20 余额。不用绑卡，改账单地址就行，步骤见[路线 C 里这一段](#apple-payment-info-required)。
 
 ### 阶段三：付款过了，但会员没到 / 账号异常
 
