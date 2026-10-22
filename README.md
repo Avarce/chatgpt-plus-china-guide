@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 22 日（北京时间）· 新增[付款时提示「必须提供付款信息才能继续购买」](#apple-payment-info-required)的原因和处理：Apple 按账单地址加收美国销售税，账单州不是 Oregon 时，$19.99 加税后超过 $20 礼品卡余额；把账单地址改成 Oregon 即可，不用绑卡。当天复核 App Store 里 Plus 的内购价仍是 $19.99。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 10 月 22 日（北京时间）· 新增[付款时提示「必须提供付款信息才能继续购买」](#apple-payment-info-required)的原因和处理：Apple 按账单地址加收美国销售税，账单州不是 Oregon 时，$19.99 加税后超过 $20 礼品卡余额；把账单地址改成 Oregon 即可，不用绑卡。当天复核 App Store 里 Plus 的内购价仍是 $19.99，[Pockyt 美区礼品卡](#pockyt-status)仍在售（补了在售面额截图和大额购买的审核提醒）。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -217,6 +217,16 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后，页面右上角有星标，可以把 Pockyt Shop 收藏起来，下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
 
+<a id="pockyt-status"></a>
+
+**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。哪天显示补货中或者下架了，也请到 Issue #1 说一声。
+
+<p align="center">
+  <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="2026 年 10 月 22 日 Pockyt Shop 里的美区 App Store & iTunes 礼品卡仍在售：$2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
+</p>
+
+**想用礼品卡在 iPhone 上订 Pro？** 美区 App Store 的 ChatGPT 页面（10 月 22 日）列有 Pro 100 $100、Pro 200 $200。按 [OpenAI 的说明](https://help.openai.com/en/articles/7905739-chatgpt-ios-app-upgrading-to-a-paid-subscription)，Free 直接升 Pro 要去网页端，所以在 iPhone 上只能先订 Plus，再升级 Pro。要注意，一次花 $100 以上，更容易被 Apple 拦下审核，弹出「购买未完成，提交申请至 Apple 支持以供审核」，刚注册或刚改到美区的 Apple ID 尤其容易遇到。先用这个账号正常完成几次 Plus 这样的小额购买，再充大额余额；被拦了按[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)处理。
+
 <a id="apple-id-none"></a>
 
 #### Apple ID 改成美区：付款方式选 None（附截图）
@@ -297,6 +307,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 2. 改账单地址：在 [account.apple.com](https://account.apple.com) 打开「付款与配送（Payment & Shipping）」，Payment Type 仍选 None，State 选 **Oregon（OR）**，City 和 ZIP 填 Oregon 的城市和它对应的邮编，电话也用 Oregon 的。用 iPhone 改，Apple 给的路径是：设置 → 你的姓名 → 付款与配送 → 编辑（[更改 Apple 账户付款方式](https://support.apple.com/zh-cn/118293)）。
 3. 回 iOS 版 ChatGPT App 重新点 Upgrade，付款前确认总额是 $19.99。
 4. 不想改地址的话，再兑换一张礼品卡，让余额够付含税的总额。
+5. 余额够、地址也改了还是弹：Apple 写过，有些购买即使用余额付，也可能要求账户里登记一张信用卡（[Apple 礼品卡和余额能买什么](https://support.apple.com/zh-cn/118245)）。这种情况见[「购买未完成」怎么办的常见问题](https://github.com/Avarce/apple-purchase-not-completed#常见问题)。
 
 **chatgpt.com 网页端的 Apple Pay 也让绑卡？** 正常。Apple 列出的余额用途是 App Store 里的 App、App 内购买和订阅，以及 apple.com 上的产品等（[Apple 礼品卡和余额能买什么](https://support.apple.com/zh-cn/118245)），不包括其他网站。网页结账里的 Apple Pay 用的是钱包里的银行卡，礼品卡余额只能在 iOS 版 ChatGPT App 里付。
 
