@@ -1,13 +1,13 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 22 日（北京时间）· 新增[付款时提示「必须提供付款信息才能继续购买」](#apple-payment-info-required)的原因和处理：Apple 按账单地址加收美国销售税，账单州不是 Oregon 时，$19.99 加税后超过 $20 礼品卡余额；把账单地址改成 Oregon 即可，不用绑卡。当天复核 App Store 里 Plus 的内购价仍是 $19.99，[Pockyt 美区礼品卡](#pockyt-status)仍在售（补了在售面额截图和大额购买的审核提醒）。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 10 月 28 日（北京时间）· 支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
-如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 4 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
+如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 5 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
 
 > **先分清两种礼品卡：** 本文实测的是 **Apple Gift Card → Apple 账户余额 → ChatGPT iOS 订阅**。OpenAI Gift Card 则兑换到 **ChatGPT Wallet**，用于符合条件的网页结账。购买和兑换条件见 [OpenAI 官方说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)；零售渠道与购买链接见 [OpenAI Gift Card 购买与兑换指南](https://github.com/Avarce/openai-gift-card-guide)。
 
-[直接查看支付宝买美区 Apple 礼品卡的 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
+[直接查看支付宝买美区 Apple 礼品卡的 5 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
 本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
@@ -30,7 +30,7 @@
   - [路线 A：官方直付](#路线-a官方直付有海外卡就选它最省钱最正规)
   - [路线 B：海外虚拟信用卡](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭)
   - [路线 C：支付宝买美区 Apple 礼品卡](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)
-  - [支付宝 4 步实测流程](#支付宝买美区礼品卡实测流程附截图)
+  - [支付宝 5 步实测流程](#支付宝买美区礼品卡实测流程附截图)
   - [Apple ID 改美区：付款方式选 None](#apple-id-none)
   - [提示「必须提供付款信息才能继续购买」：账单地址改 Oregon](#apple-payment-info-required)
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
@@ -45,7 +45,7 @@
 | 你的情况 | 直接选 | 为什么 |
 | --- | --- | --- |
 | 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
-| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 4 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
+| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 5 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
 | 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
 | 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 100 ¥730 / 月、Pro 200 ¥1400 / 月，均支持微信自助充值 |
 | 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 100](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
@@ -128,7 +128,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **先分清两个不同的动作：**
 
-1. **在支付宝切换到美国城市**，是为了找到 Coupons 和 Pockyt 礼品卡入口。
+1. **在支付宝切换到美国城市**，是为了在首页找到「大牌礼卡」和 Pockyt 礼品卡入口。
 2. **在 App Store 使用美区 Apple ID**，是为了兑换美区礼品卡并用余额支付 ChatGPT Plus。设置账单地址时把 State 选为 **Oregon（OR）**，避免在 $19.99 上再加销售税。
 
 更省事的做法是单独准备一个美区 Apple ID，只用于 App Store 的「媒体与购买项目」；主力 iCloud 账号不必跟着改区。如果你选择把现有 Apple ID 改成美区，Apple 才会要求先用完余额、取消现有订阅并等订阅期结束。改区和付款方式选 None 的步骤见[下文](#apple-id-none)。
@@ -146,7 +146,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 **完整流程（建议按这个顺序做）：**
 
 1. **先把 Apple ID 改成美区。** 付款方式选 None，账单地址填 Oregon（OR），城市、邮编、电话也用 Oregon 的。这一步不花钱，却最容易卡住，确认选到 None 并保存成功，再去买卡。步骤和截图见 [Apple ID 改成美区](#apple-id-none)。
-2. **在支付宝买 $20 美区 App Store 礼品卡。** 切到美国城市 → Coupons → Pockyt 精选大牌折扣礼卡 → App Store & iTunes USA → 填收码邮箱并付款。截图见[实测流程](#支付宝买美区礼品卡实测流程附截图)；找不到 Coupons、「大牌礼卡」或搜不到 Pockyt，用[直达链接](#pockyt-direct-link)。
+2. **在支付宝买 $20 美区 App Store 礼品卡。** 切到美国城市 → 首页「超值抢购」里的「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop → 地区选美国，点 App Store & iTunes USA → 填收码邮箱并付款。截图见[实测流程](#支付宝买美区礼品卡实测流程附截图)；首页找不到这个入口或搜不到 Pockyt，用[直达链接](#pockyt-direct-link)。
 3. **在 App Store 兑换礼品卡，再到 iOS 版 ChatGPT App 里升级 Plus**，用余额付款，确认总额是 $19.99。见[拿到兑换码后](#apple-redeem-subscribe)。
 4. **付款时卡住了：** 提示「必须提供付款信息才能继续购买」，看[账单地址改 Oregon](#apple-payment-info-required)；弹出「购买未完成，提交申请至 Apple 支持以供审核」，看[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
 
@@ -157,7 +157,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 ### 支付宝买美区礼品卡：实测流程（附截图）
 
-买礼品卡的四步都在支付宝里完成，人民币付款；之后再到 App Store 兑换并订阅。下面把「汇率参考」和「实际付款」分开写，避免把市场换算价误当成最终成交价：
+买礼品卡的五步都在支付宝里完成，人民币付款；之后再到 App Store 兑换并订阅。下面把「汇率参考」和「实际付款」分开写，避免把市场换算价误当成最终成交价：
 
 | 项目 | 核对结果 |
 | --- | --- |
@@ -169,25 +169,31 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **结论：** 7 月实付 **¥135.98**，10 月 13 日复测 **¥134.44**，三个月里差 ¥1.54。它会随汇率变化，应以购买当时的实际成交价为准。
 
+**入口是 2026 年 10 月 28 日实测的。** 支付宝首页的活动位会跟着活动换：这次的入口在首页「超值抢购」里，卡片标着「秋季限定」，活动结束后可能又会换位置。以前的入口是底部「Coupons」→「大牌礼卡」，Pockyt Shop 首页的横幅上现在还是这样写的（「优惠」菜单 → 大牌礼卡），首页找不到时可以再试试。两处都找不到，直接用下面的[直达链接](#pockyt-direct-link)。
+
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step1-us-city.jpg" width="250" alt="支付宝切换到美国城市并点开 Coupons，准备购买美区 Apple 礼品卡"><br>
-      <b>①</b> 支付宝<b>左上角</b>把定位切到<b>美国任意城市</b>，页面变成「欢迎来到美国」后，点最下方的 <b>Coupons</b>
+    <td width="33%" valign="top" align="center">
+      <img src="images/giftcard-step1-alipay-home-20261028.jpg" width="250" alt="支付宝定位切到美国城市洛杉矶，在首页「超值抢购」里点「大牌礼卡低至9折」，准备购买美区 Apple 礼品卡"><br>
+      <b>①</b> 支付宝<b>左上角</b>把定位切到<b>美国任意城市</b>（图里是洛杉矶），在首页<b>「超值抢购」</b>里点<b>「大牌礼卡低至9折」</b>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step2-coupons.jpg" width="250" alt="支付宝进入大牌礼卡，点开 Pockyt 精选大牌折扣礼卡"><br>
-      <b>②</b> 在「大牌礼卡」里点 <b>精选大牌折扣礼卡</b>（尽在 Pockyt）
+    <td width="33%" valign="top" align="center">
+      <img src="images/giftcard-step2-campaign-20261028.jpg" width="250" alt="支付宝「大牌礼卡 枫享好礼」活动页，一直往下滑到最底部"><br>
+      <b>②</b> 进入「大牌礼卡 枫享好礼」活动页，<b>一直往下滑到最底部</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/giftcard-step3-pockyshop-20261028.jpg" width="250" alt="活动页最底部「更多大牌 折扣礼卡」里点 Pockyshop，进入 Pockyt Shop"><br>
+      <b>③</b> 在最底部的「更多大牌 折扣礼卡」里点 <b>Pockyshop</b>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="images/giftcard-step3-appstore.jpg" width="250" alt="在 Pockyt Shop 选择 App Store & iTunes USA 美区 Apple 礼品卡"><br>
-      <b>③</b> 进入 Pockyt Shop，选 <b>App Store &amp; iTunes USA</b>，填邮箱、选面额（<b>直接选 $20，别卡着 $19.99</b>）
+    <td width="33%" valign="top" align="center">
+      <img src="images/giftcard-step4-appstore-20261028.jpg" width="250" alt="Pockyt Shop 首页地区选美国，点 App Store & iTunes USA 美区 Apple 礼品卡"><br>
+      <b>④</b> 进入 Pockyt Shop，<b>地区选美国</b>，点 <b>App Store &amp; iTunes USA</b>，填邮箱、选面额（<b>直接选 $20，别卡着 $19.99</b>）
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <img src="images/giftcard-step4-payment-20261013.jpg" width="250" alt="支付宝购买 $20 美区 Apple 礼品卡的付款页，2026 年 10 月 13 日显示 ¥134.44，用于 iPhone 订阅 ChatGPT Plus"><br>
-      <b>④</b> 支付宝付款：<b>$20 礼品卡 ¥134.44</b>（2026-10-13 复测；7 月实付 ¥135.98），汇率透明、没有高溢价
+      <b>⑤</b> 支付宝付款：<b>$20 礼品卡 ¥134.44</b>（2026-10-13 复测；7 月实付 ¥135.98），汇率透明、没有高溢价
     </td>
   </tr>
 </table>
@@ -196,7 +202,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 #### 找不到「大牌礼卡」或搜不到 Pockyt：用直达链接
 
-2026 年 10 月 9 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈：支付宝切到美国城市后，界面里找不到「大牌礼卡」，搜索也搜不到 Pockyt。遇到这种情况，跳过上面的第 ①、② 步，用链接直接进 Pockyt Shop：
+2026 年 10 月 9 日有读者在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈：支付宝切到美国城市后，界面里找不到「大牌礼卡」，搜索也搜不到 Pockyt。遇到这种情况，跳过上面的第 ①–③ 步，用链接直接进 Pockyt Shop：
 
 ```
 https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
@@ -210,7 +216,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
     </td>
     <td width="50%" valign="top" align="center">
       <img src="images/pockyt-direct-step2-shop.jpg" width="250" alt="通过直达链接打开的 Pockyt Shop 首页，地区选美国后可以看到 App Store & iTunes 礼品卡"><br>
-      <b>②</b> 直接进入 Pockyt Shop。<b>地区选美国</b>，点 <b>App Store &amp; iTunes</b>，之后和上面的第 ③、④ 步一样
+      <b>②</b> 直接进入 Pockyt Shop。<b>地区选美国</b>，点 <b>App Store &amp; iTunes</b>，再填邮箱、选面额并付款，同上面的第 ④、⑤ 步
     </td>
   </tr>
 </table>
@@ -219,7 +225,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 <a id="pockyt-status"></a>
 
-**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。哪天显示补货中或者下架了，也请到 Issue #1 说一声。
+**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。10 月 28 日，Issue #1 也有读者按上面的新入口买到礼品卡、充值成功。哪天显示补货中或者下架了，也请到 Issue #1 说一声。
 
 <p align="center">
   <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="2026 年 10 月 22 日 Pockyt Shop 里的美区 App Store & iTunes 礼品卡仍在售：$2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
