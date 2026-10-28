@@ -1,13 +1,13 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 28 日（北京时间）· 支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 10 月 28 日（北京时间）· 支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
-如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 5 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
+如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 6 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
 
 > **先分清两种礼品卡：** 本文实测的是 **Apple Gift Card → Apple 账户余额 → ChatGPT iOS 订阅**。OpenAI Gift Card 则兑换到 **ChatGPT Wallet**，用于符合条件的网页结账。购买和兑换条件见 [OpenAI 官方说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)；零售渠道与购买链接见 [OpenAI Gift Card 购买与兑换指南](https://github.com/Avarce/openai-gift-card-guide)。
 
-[直接查看支付宝买美区 Apple 礼品卡的 5 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
+[直接查看支付宝买美区 Apple 礼品卡的 6 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
 
 本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
@@ -30,7 +30,7 @@
   - [路线 A：官方直付](#路线-a官方直付有海外卡就选它最省钱最正规)
   - [路线 B：海外虚拟信用卡](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭)
   - [路线 C：支付宝买美区 Apple 礼品卡](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)
-  - [支付宝 5 步实测流程](#支付宝买美区礼品卡实测流程附截图)
+  - [支付宝 6 步实测流程](#支付宝买美区礼品卡实测流程附截图)
   - [Apple ID 改美区：付款方式选 None](#apple-id-none)
   - [提示「必须提供付款信息才能继续购买」：账单地址改 Oregon](#apple-payment-info-required)
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
@@ -45,7 +45,7 @@
 | 你的情况 | 直接选 | 为什么 |
 | --- | --- | --- |
 | 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
-| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 5 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
+| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 6 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
 | 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
 | 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 100 ¥730 / 月、Pro 200 ¥1400 / 月，均支持微信自助充值 |
 | 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 100](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
@@ -58,13 +58,22 @@
 
 ## 先搞明白：为什么国内充 Plus 这么难
 
-很多人以为是自己操作有问题，其实是支付源头和网络环境两道门槛卡住的，跟你会不会用 ChatGPT 无关。搞懂这三点，后面所有报错你都能自己判断：
+在 ChatGPT 网页结账页付款被拒，多数不是操作错了。按 OpenAI 帮助中心的说法，一张卡能不能付，先看三件事：发卡银行在哪里、你本人在哪里、账单信息和银行登记的是否一致。搞懂下面四点，后面的报错大多能自己判断：
 
-- Stripe 按 BIN 段拦截中国大陆发卡行。OpenAI 的收银台是 Stripe。只要卡号前 6 位（BIN）识别为中国大陆银行发行，无论 Visa 还是 Mastercard、无论额度多高、无论 IP 在哪、账单地址填哪，成功率都极低——招行全币种、中信 Visa/JCB 这类双币卡基本都过不了。这一步没有稳定的绕过办法，别再拿国内卡硬试了。
-- 地区限制。OpenAI 只在部分国家/地区开放订阅，中国大陆、香港等地不支持。你的网络出口要落在美国 / 英国 / 新加坡 / 日本 / 加拿大等支持地区。这里有个常被说死的误区：住宅 IP（Residential）更稳，但不是绝对必须——干净、稳定、没被大量滥用过的机房 IP 也能付成功。真正会翻车的是那种「万人骑」的免费节点和已经被风控盯上的 IP，而不是「只要是机房 IP 就一定不行」。
-- 3D Secure 二次验证。海外信用卡走 3DS 时会给发卡行发短信验证码，国内卡基本没接入海外 3DS 体系，收不到码，自然过不了——这是国内卡在 OpenAI 支付时几乎必然失败的又一个底层原因。
+- **发卡银行要在 OpenAI 支持的国家和地区。** OpenAI 写明，付款用的卡必须由支持地区的银行发行（[Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined)）。2026 年 10 月 27 日查看[支持的国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)，中国大陆、香港、澳门都不在名单里。看的是发卡银行，不是卡面上的 Visa、Mastercard 标志：国内银行发的双币卡、全币卡，发卡银行仍在中国大陆。
+- **海外银行发的卡，也可能被拒。** OpenAI 的排查清单里，第一项就是核对卡号、有效期、安全码和账单地址（含邮编），要和发卡银行登记的一致；它还要求你本人和发卡银行都在支持地区，任何一方不在，付款都可能被拒（[Plus / Pro 续费付款排查](https://help.openai.com/en/articles/7242622-troubleshooting-chatgpt-plus-or-pro-renewal-payments)）。OpenAI 没写怎么判断你在哪里。我们的经验是：卡的账单地址、注册 ChatGPT 时和付款时的网络出口（IP）分在不同国家，更容易被拒，尽量让它们落在同一个国家。
+- **结账页不说原因。** 付款没通过时，结账页顶部只显示「付款未获批」（Payment was not approved）或「您的银行卡被拒绝了」（Your card has been declined.）。OpenAI 说银行通常不会把拒绝的具体原因告诉他们，要问原因只能找发卡银行。
+- **$0 的免费试用也要验卡。** 部分免费试用要先绑一张有效的付款方式，试用结束后用这张卡自动续费（[免费试用与优惠订阅 FAQ](https://help.openai.com/en/articles/8381046-chatgpt-promotional-subscriptionsfree-trial-invites-faq)）。所以当天应付 $0，卡照样要过这一关，下图就是这样。
 
-**结论：** 想开 Plus，可以选择海外卡官方直付、海外虚拟卡、美区 Apple ID + 礼品卡，或第三方充值。下面四条路线会分别讲清楚成本、门槛和风险，按自己的设备、支付条件和折腾意愿选择即可。
+<p align="center">
+  <img src="images/checkout-card-declined-20261027.jpg" width="680" alt="ChatGPT 免费试用 Plus 的中文结账页：顶部提示「您的银行卡被拒绝了」，右侧月付订阅 US$20.00、优惠 -US$20.00，当天应付 $0">
+</p>
+
+<p align="center"><sub>AONIR 实拍，2026 年 10 月 27 日：领取一个月免费试用 Plus，当天应付 $0，结账页仍提示「您的银行卡被拒绝了」。「付款未获批」出现在同一个位置。</sub></p>
+
+结账页 7 种提示的中英文原文、每一种先做什么，以及 OpenAI 给的排查顺序，见 [ChatGPT 付款未获批准怎么办](https://aonir.com/guides/chatgpt-payment-not-approved/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=why_hard_declined)。
+
+**结论：** 国内银行发的卡不在官方支持范围内，别反复试；海外卡被拒，先核对账单信息和所在地区。想开 Plus，可以选择海外卡官方直付、海外虚拟卡、美区 Apple ID + 礼品卡，或第三方充值。下面四条路线会分别讲清楚成本、门槛和风险，按自己的设备、支付条件和折腾意愿选择即可。
 
 ## 2026 年 ChatGPT 套餐与真实价格
 
@@ -157,7 +166,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 ### 支付宝买美区礼品卡：实测流程（附截图）
 
-买礼品卡的五步都在支付宝里完成，人民币付款；之后再到 App Store 兑换并订阅。下面把「汇率参考」和「实际付款」分开写，避免把市场换算价误当成最终成交价：
+这六步都在支付宝里完成，人民币付款；之后再到 App Store 兑换并订阅。下面把「汇率参考」和「实际付款」分开写，避免把市场换算价误当成最终成交价：
 
 | 项目 | 核对结果 |
 | --- | --- |
@@ -169,7 +178,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **结论：** 7 月实付 **¥135.98**，10 月 13 日复测 **¥134.44**，三个月里差 ¥1.54。它会随汇率变化，应以购买当时的实际成交价为准。
 
-**入口是 2026 年 10 月 28 日实测的。** 支付宝首页的活动位会跟着活动换：这次的入口在首页「超值抢购」里，卡片标着「秋季限定」，活动结束后可能又会换位置。以前的入口是底部「Coupons」→「大牌礼卡」，Pockyt Shop 首页的横幅上现在还是这样写的（「优惠」菜单 → 大牌礼卡），首页找不到时可以再试试。两处都找不到，直接用下面的[直达链接](#pockyt-direct-link)。
+**入口是 2026 年 10 月 28 日实测的。** 支付宝首页的活动位会跟着活动换：这次的入口在首页「超值抢购」里，卡片标着「秋季限定」，活动结束后可能又会换位置。以前的入口是底部「Coupons」→「大牌礼卡」，Pockyt Shop 首页的横幅上现在还是这样写的（「优惠」菜单 → 大牌礼卡），首页找不到时可以再试试。两处都找不到，直接用下面的[直达链接](#pockyt-direct-link)。进了 Pockyt Shop，先点右上角的星标收藏（第 ⑥ 步），以后入口再换也不用重新找。
 
 <table>
   <tr>
@@ -194,6 +203,10 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
     <td width="33%" valign="top" align="center">
       <img src="images/giftcard-step4-payment-20261013.jpg" width="250" alt="支付宝购买 $20 美区 Apple 礼品卡的付款页，2026 年 10 月 13 日显示 ¥134.44，用于 iPhone 订阅 ChatGPT Plus"><br>
       <b>⑤</b> 支付宝付款：<b>$20 礼品卡 ¥134.44</b>（2026-10-13 复测；7 月实付 ¥135.98），汇率透明、没有高溢价
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/giftcard-step6-favorite-20261028.jpg" width="250" alt="Pockyt Shop 页面右上角的星标，点一下把 Pockyt Shop 收藏到支付宝，以后活动入口换了也能直接打开"><br>
+      <b>⑥</b> <b>记得收藏：</b>点 Pockyt Shop 右上角的 <b>★</b>。以后活动入口换了或者下线了，从支付宝的收藏里还能直接打开
     </td>
   </tr>
 </table>
@@ -221,7 +234,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
   </tr>
 </table>
 
-这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后，页面右上角有星标，可以把 Pockyt Shop 收藏起来，下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
+这条链接是 2026 年 10 月 9 日给出的，要粘贴到支付宝里打开。截图搜索框里显示的是另一次分享生成的链接，以正文这条为准。进去以后同样点右上角的星标收藏（第 ⑥ 步），下次不用再找入口。哪天链接失效了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。
 
 <a id="pockyt-status"></a>
 
@@ -435,7 +448,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 ### Q：用国内信用卡到底能不能成功？
 
-成功率极低。Stripe 会按 BIN 段拦截中国大陆发卡行，招行全币、中信 Visa/JCB 基本都不行。失败不扣款，但别把它当稳定方案，更别反复试。
+按 OpenAI 的规定，付款卡要由支持地区的银行发行，中国大陆、香港、澳门不在名单里，所以国内银行发的卡（包括双币卡、全币卡）不在官方支持范围内。别反复试。原因和出处见[上文](#先搞明白为什么国内充-plus-这么难)。
 
 ### Q：通过代充开 Plus 会被封号吗？
 
@@ -473,8 +486,8 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 
 ### 阶段二：进了支付页，但付不进去
 
-- **Your card was declined：** 十有八九用了国内发行的卡，Stripe 按 BIN 段直接拒。国内卡这条没有稳定解法，换支付方式（礼品卡 / 代充）才是正路。
-- **We were unable to authenticate your payment method（3DS 验证失败）：** 需要发卡行下发短信验证码，国内卡多半没接入海外 3DS 体系，收不到码，这关过不了。
+- **「您的银行卡被拒绝了」（Your card has been declined.）或「付款未获批」（Payment was not approved）：** 结账页不说原因。先看发卡银行在不在 OpenAI 支持的地区，中国大陆、香港、澳门不在（见[上文](#先搞明白为什么国内充-plus-这么难)），国内银行发的卡换支付方式（礼品卡 / 代充）才是正路。是支持地区的卡，再按 OpenAI 的顺序查：卡号、有效期、安全码和账单地址，银行有没有拦截境外交易，3D 验证有没有完成。7 种提示的原文对照见 [ChatGPT 付款未获批准怎么办](https://aonir.com/guides/chatgpt-payment-not-approved/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=appendix_declined)。
+- **提示需要验证，或 3D Secure 验证失败：** OpenAI 给的办法是允许弹窗和页面跳转、关掉广告拦截插件，用隐私模式或换浏览器、设备、网络再试；在银行短信或 App 里确认时，不要关闭或刷新结账页。还不行，请发卡银行为网上、境外交易开通 3D 验证，或者换一张卡（[Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined)）。
 - **Something went wrong, please try again later：** 常见于同一 IP 短时间内多次尝试、或卡段已被标记。别硬刚，换个思路（礼品卡 / 靠谱代充）比在这里死磕划算。
 - **iOS 内购提示「必须提供付款信息才能继续购买」：** 用礼品卡余额付时最常见的原因是账单地址不在 Oregon，$19.99 加税后超过 $20 余额。不用绑卡，改账单地址就行，步骤见[路线 C 里这一段](#apple-payment-info-required)。
 
