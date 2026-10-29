@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 28 日（北京时间）· 支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 10 月 30 日（北京时间）· OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，[套餐表](#2026-年-chatgpt-套餐与真实价格)里 Pro 三档改为约为 Plus 的 10、20、50 倍。10 月 28 日：支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 6 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -15,9 +15,9 @@
 >
 > **ChatGPT Plus：¥168 / 月**，日常工作、学习与个人编程。
 >
-> **ChatGPT Pro 100（5×）：¥730 / 月**，用量约为 Plus 的 5 倍，Plus 不够用时再选。
+> **ChatGPT Pro 100：¥730 / 月**，Work / Codex 用量约为 Plus 的 10 倍（10 月 29 日起翻倍），Plus 不够用时再选。
 >
-> **ChatGPT Pro 200（10×）：¥1400 / 月**，用量约为 Plus 的 10 倍，适合 Pro 100 也常用完的重度用户。
+> **ChatGPT Pro 200：¥1400 / 月**，约为 Plus 的 20 倍，适合 Pro 100 也常用完的重度用户。
 >
 > **[Plus 充值 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[Pro 100 充值 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[Pro 200 充值 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · **[Pro 500 开通 →](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_500_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
 
@@ -84,12 +84,12 @@
 | Free | $0 | 轻度、偶尔问问题 | 10 月 8 日起普通对话用 GPT-6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 10 月 7 日起普通对话用 GPT-6，可选到 High 档；更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
-| Pro 100（5×） | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 5 倍，目前没有 5 小时限制，适合经常遇到用量限制的人 |
-| Pro 200（10×） | $200 / 月 | 持续高强度使用的个人用户 | 用量约为 Plus 的 10 倍，目前没有 5 小时限制。9 月 29 日重新开放，新订阅的额度比原来的 20 倍低 |
-| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | 用量约为 Plus 的 25 倍，另有 Ultrafast 高速档 |
+| Pro 100 | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 10 倍，目前没有 5 小时限制，适合经常遇到用量限制的人 |
+| Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | 约为 Plus 的 20 倍，目前没有 5 小时限制。10 月 29 日起所有 Pro 200 订阅额度相同，原定下调老订阅额度的计划取消 |
+| Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | 约为 Plus 的 50 倍，另有 Ultrafast 高速档 |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
 
-Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。
+Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。美国时间 10 月 29 日，Pro 三档的 Work / Codex 额度翻倍，倍数随之变成约 10、20、50 倍（[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Tibo 原帖](https://x.com/thsottiaux/status/2115850175868727621)，50 倍是他[亲自确认](https://x.com/thsottiaux/status/2115851811576053881)的）；Chat 里 GPT-6 Pro 的每周额度，Pro 100 和 Pro 500 不变，Plus 也不变。
 
 几个容易被忽略的点：
 
@@ -415,10 +415,10 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 | 套餐 | AONIR 价格 | 适合谁 | 充值入口 |
 | --- | --- | --- | --- |
 | ChatGPT Plus | **¥168 / 月** | 日常写作、学习、办公与个人编程，当前用量基本够用 | [查看 Plus 套餐与账号要求](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section) |
-| **ChatGPT Pro 100**（5×） | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 100 并自助充值](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
-| **ChatGPT Pro 200**（10×） | **¥1400 / 月** | Pro 100 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 200 并自助充值](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
+| **ChatGPT Pro 100**（约 10 倍） | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 100 并自助充值](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
+| **ChatGPT Pro 200**（约 20 倍） | **¥1400 / 月** | Pro 100 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 200 并自助充值](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
 
-**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 100（用量约为 Plus 的 5 倍）；还不够用，再看 Pro 200（约为 10 倍）。Work 与 Codex 共用套餐用量；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
+**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 100（Work / Codex 用量约为 Plus 的 10 倍，10 月 29 日起翻倍）；还不够用，再看 Pro 200（约为 20 倍）。Work 与 Codex 共用套餐用量；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
 
 **三档的下单流程相同：**
 
