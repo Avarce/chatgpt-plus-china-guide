@@ -19,7 +19,7 @@
 >
 > **ChatGPT Pro 200：¥1400 / 月**，约为 Plus 的 20 倍，适合 Pro 100 也常用完的重度用户。
 >
-> **[Plus 充值 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[Pro 100 充值 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[Pro 200 充值 →](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · **[Pro 500 开通 →](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_500_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
+> **[Plus 充值 →](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_warranty_cta)** · **[Pro 100 充值 →](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_5x_cta)** · **[Pro 200 充值 →](https://aonir.com/chatgpt-pro-200/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_10x_cta)** · **[Pro 500 开通 →](https://aonir.com/chatgpt-pro-500/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_pro_500_cta)** · [先比较各类充值方式](https://aonir.com/guides/chatgpt-plus-without-foreign-card/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=top_compare)
 
 ## 目录
 
@@ -84,8 +84,8 @@
 | Free | $0 | 轻度、偶尔问问题 | 10 月 8 日起普通对话用 GPT-6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
 | Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 10 月 7 日起普通对话用 GPT-6，可选到 High 档；更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
-| Pro 100 | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 10 倍，目前没有 5 小时限制，适合经常遇到用量限制的人 |
-| Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | 约为 Plus 的 20 倍，目前没有 5 小时限制。10 月 29 日起所有 Pro 200 订阅额度相同，原定下调老订阅额度的计划取消 |
+| Pro 100 | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 10 倍，没有五小时限制，适合经常遇到用量限制的人 |
+| Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | 约为 Plus 的 20 倍，没有五小时限制。10 月 29 日起所有 Pro 200 订阅额度相同，原定下调老订阅额度的计划取消 |
 | Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | 约为 Plus 的 50 倍，另有 Ultrafast 高速档 |
 | Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
 
@@ -416,9 +416,9 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 | --- | --- | --- | --- |
 | ChatGPT Plus | **¥168 / 月** | 日常写作、学习、办公与个人编程，当前用量基本够用 | [查看 Plus 套餐与账号要求](https://aonir.com/chatgpt-plus/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_section) |
 | **ChatGPT Pro 100**（约 10 倍） | **¥730 / 月** | 经常使用 Work / Codex 做研究、处理文件或编程，Plus 用量限制已影响工作 | [查看 Pro 100 并自助充值](https://aonir.com/chatgpt-pro/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_5x) |
-| **ChatGPT Pro 200**（约 20 倍） | **¥1400 / 月** | Pro 100 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 200 并自助充值](https://aonir.com/chatgpt-pro-10x/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
+| **ChatGPT Pro 200**（约 20 倍） | **¥1400 / 月** | Pro 100 也经常用完，持续高强度使用 Work / Codex | [查看 Pro 200 并自助充值](https://aonir.com/chatgpt-pro-200/?utm_source=github&utm_medium=referral&utm_campaign=plus_guide&utm_content=service_pro_10x) |
 
-**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 100（Work / Codex 用量约为 Plus 的 10 倍，10 月 29 日起翻倍）；还不够用，再看 Pro 200（约为 20 倍）。Work 与 Codex 共用套餐用量；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 目前没有 5 小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
+**怎么选：** 日常使用可以先选 Plus；若经常因用量耗尽中断工作，再考虑 Pro 100（Work / Codex 用量约为 Plus 的 10 倍，10 月 29 日起翻倍）；还不够用，再看 Pro 200（约为 20 倍）。Work 与 Codex 共用套餐用量；按 [OpenAI 当前计划与用量说明](https://learn.chatgpt.com/docs/pricing)，Pro 没有五小时限制，只算每周额度。具体消耗受模型、任务复杂度和运行方式影响，余量与重置时间以账号显示为准；API 另行计费。
 
 **三档的下单流程相同：**
 
