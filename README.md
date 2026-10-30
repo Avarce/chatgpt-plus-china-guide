@@ -82,14 +82,14 @@
 | 套餐 | 官方价 | 适合谁 | 关键点 |
 | --- | --- | --- | --- |
 | Free | $0 | 轻度、偶尔问问题 | 10 月 8 日起普通对话用 GPT-6 Luna，日常文字对话不限次；文件、图片等工具有额度；部分地区带广告 |
-| Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型，性价比不如直接上 Plus |
+| Go | $8 / 月 | 预算敏感、量不大 | 注意：Go 在部分地区仍带广告，且不含旗舰模型 |
 | Plus | $20 / 月 | 日常工作、学习与个人编程 | 10 月 7 日起普通对话用 GPT-6，可选到 High 档；更高的模型与工具用量，含 Deep Research、Codex 等；API 单独计费 |
 | Pro 100 | $100 / 月 | 高频使用 Work / Codex 的个人用户 | Work / Codex 用量约为 Plus 的 10 倍，没有五小时限制，适合经常遇到用量限制的人 |
 | Pro 200 | $200 / 月 | 持续高强度使用的个人用户 | 约为 Plus 的 20 倍，没有五小时限制。10 月 29 日起所有 Pro 200 订阅额度相同，原定下调老订阅额度的计划取消 |
 | Pro 500 | $500 / 月 | 全天跑长任务、多个智能体并行 | 约为 Plus 的 50 倍，另有 Ultrafast 高速档 |
-| Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；一个人别买，Plus 就够 |
+| Business | $25 / 席·月（年付 $20 / 席，最少 2 席） | 团队 | 数据默认不用于训练；最少 2 席 |
 
-Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。美国时间 10 月 29 日，Pro 三档的 Work / Codex 额度翻倍，倍数随之变成约 10、20、50 倍（[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[Tibo 原帖](https://x.com/thsottiaux/status/2115850175868727621)，50 倍是他[亲自确认](https://x.com/thsottiaux/status/2115851811576053881)的）；Chat 里 GPT-6 Pro 的每周额度，Pro 100 和 Pro 500 不变，Plus 也不变。
+Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负责人 Tibo](https://x.com/thsottiaux/status/2104951965184925941) 和 [OpenAI](https://x.com/OpenAI/status/2104993967985381673) 在 X 上的说明，[Pro 200 同一天重新开放](https://x.com/OpenAI/status/2104993969486930015)。美国时间 10 月 29 日，Pro 三档的 Work / Codex 额度翻倍（[OpenAI 帮助中心](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)），倍数随之变成约 10、20、50 倍，这是 Tibo 的说法（[原帖](https://x.com/thsottiaux/status/2115850175868727621)，50 倍他[亲自确认](https://x.com/thsottiaux/status/2115851811576053881)）；Chat 里 GPT-6 Pro 的每周额度，Pro 100 和 Pro 500 不变，Plus 也不变。
 
 几个容易被忽略的点：
 
@@ -107,7 +107,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 **真实成本：** 官方原价，没有任何溢价。
 
-**优点：** 最正规，订阅绑在你自己账号上，没有中间商，自动续费、稳定。
+**优点：** 最正规，订阅绑在你自己账号上，自动续费、稳定。
 
 **缺点 / 注意：** 前提是「你真有一张能用的海外卡」——绝大多数国内用户卡在这一步，所以才有后面三条路。别用国内双币卡硬试超过一两次，失败多了会给账号累加风控标签。
 
