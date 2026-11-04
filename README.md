@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 10 月 30 日（北京时间）· OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，[套餐表](#2026-年-chatgpt-套餐与真实价格)里 Pro 三档改为约为 Plus 的 10、20、50 倍。10 月 28 日：支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 11 月 4 日（北京时间）· 11 月 4 日 Issue #1 有读者反馈 Pockyt Shop 显示缺货，我们问了 Pockyt 官方客服，当晚回复美区 Apple / App Store 礼品卡已补货，见 [Pockyt Shop 现在还能买吗](#pockyt-status)。OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，[套餐表](#2026-年-chatgpt-套餐与真实价格)里 Pro 三档改为约为 Plus 的 10、20、50 倍。10 月 28 日：支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 6 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -238,7 +238,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 <a id="pockyt-status"></a>
 
-**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。10 月 28 日，Issue #1 也有读者按上面的新入口买到礼品卡、充值成功。哪天显示补货中或者下架了，也请到 Issue #1 说一声。
+**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。10 月 28 日，Issue #1 也有读者按上面的新入口买到礼品卡、充值成功。11 月 4 日，Issue #1 有读者反馈 Pockyt Shop 和支付宝惠出境都显示缺货；我们当天发邮件问了 Pockyt 官方客服，当晚收到回复：美区 Apple / App Store 礼品卡已补货，可以正常下单（[客服回复截图](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1#issuecomment-6632083340)）。以后再显示缺货或者下架，可以在微信公众号 PockytShop 里找在线客服问补货时间，也请到 Issue #1 说一声。
 
 <p align="center">
   <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="2026 年 10 月 22 日 Pockyt Shop 里的美区 App Store & iTunes 礼品卡仍在售：$2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
