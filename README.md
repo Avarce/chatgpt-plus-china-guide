@@ -1,13 +1,13 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 11 月 4 日（北京时间）· 11 月 4 日 Issue #1 有读者反馈 Pockyt Shop 显示缺货，我们问了 Pockyt 官方客服，当晚回复美区 Apple / App Store 礼品卡已补货，见 [Pockyt Shop 现在还能买吗](#pockyt-status)。OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，[套餐表](#2026-年-chatgpt-套餐与真实价格)里 Pro 三档改为约为 Plus 的 10、20、50 倍。10 月 28 日：支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 11 月 6 日（北京时间）· Pockyt Shop 的美区 Apple 礼品卡 11 月 4 日补货后，11 月 5 日又卖完了，Pockyt 客服回复暂无明确补货时间（[Pockyt Shop 现在还能买吗](#pockyt-status)）。我们 11 月 6 日实测了备用渠道 SEAGM：支付宝付款，$20 卡实付 ¥138.13，约 3 分钟拿到兑换码、兑换成功，步骤和截图见 [Pockyt Shop 缺货怎么办](#seagm)。OpenAI 10 月 29 日把 Pro 的 Work / Codex 额度翻倍，[套餐表](#2026-年-chatgpt-套餐与真实价格)里 Pro 三档改为约为 Plus 的 10、20、50 倍。10 月 28 日：支付宝里买礼品卡的入口换了位置：现在是首页「超值抢购」→「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop。[实测流程](#支付宝买美区礼品卡实测流程附截图)已换成当天的新截图，并加了一步：进 Pockyt Shop 后点星标收藏，以后入口再换也能直接打开；首页找不到这个入口，用[直达链接](#pockyt-direct-link)。当天 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 也有读者按这个入口买到礼品卡、充值成功。同日按 OpenAI 帮助中心重写了[为什么国内充 Plus 这么难](#先搞明白为什么国内充-plus-这么难)，附 10 月 27 日结账页卡被拒的实拍。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有 6 张本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
 
 > **先分清两种礼品卡：** 本文实测的是 **Apple Gift Card → Apple 账户余额 → ChatGPT iOS 订阅**。OpenAI Gift Card 则兑换到 **ChatGPT Wallet**，用于符合条件的网页结账。购买和兑换条件见 [OpenAI 官方说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)；零售渠道与购买链接见 [OpenAI Gift Card 购买与兑换指南](https://github.com/Avarce/openai-gift-card-guide)。
 
-[直接查看支付宝买美区 Apple 礼品卡的 6 步实测流程](#支付宝买美区礼品卡实测流程附截图)。
+[直接查看支付宝买美区 Apple 礼品卡的 6 步实测流程](#支付宝买美区礼品卡实测流程附截图)。Pockyt Shop 缺货买不到，看 [11 月 6 日实测的备用渠道 SEAGM](#seagm)。
 
 本文由 **AONIR** 维护，我们同时提供 ChatGPT / Claude 会员充值服务。下面保留自助操作与服务方案，按你的设备和付款条件选择即可。
 
@@ -31,6 +31,7 @@
   - [路线 B：海外虚拟信用卡](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭)
   - [路线 C：支付宝买美区 Apple 礼品卡](#路线-c支付宝买美区-apple-礼品卡用-iphone-订阅-chatgpt-plus亲测)
   - [支付宝 6 步实测流程](#支付宝买美区礼品卡实测流程附截图)
+  - [Pockyt Shop 缺货怎么办：SEAGM 实测](#seagm)
   - [Apple ID 改美区：付款方式选 None](#apple-id-none)
   - [提示「必须提供付款信息才能继续购买」：账单地址改 Oregon](#apple-payment-info-required)
   - [路线 D：第三方代充](#路线-d第三方代充多数人最省心但要会挑)
@@ -45,7 +46,7 @@
 | 你的情况 | 直接选 | 为什么 |
 | --- | --- | --- |
 | 已有符合要求的海外付款方式 | [路线 A：官网订阅](#路线-a官方直付有海外卡就选它最省钱最正规) | 直接在自己的 ChatGPT 账号中完成网页结账 |
-| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 6 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额 |
+| 有 iPhone / iPad，准备自行使用美区 Apple 礼品卡 | [直接看 6 步实测图](#支付宝买美区礼品卡实测流程附截图) | $20 礼品卡 7 月实付 ¥135.98，10 月 13 日复测 ¥134.44；购买时按购卡和结账页面核对金额。Pockyt 缺货时看[备用渠道 SEAGM](#seagm) |
 | 已有海外虚拟卡，想了解能否使用 | [路线 B：虚拟卡说明](#路线-b海外虚拟信用卡技术党可玩但-2026-年基本团灭) | 先核对发卡地区、商户支持及费用 |
 | 希望用微信充值到本人账号 | [查看 AONIR 服务说明](#我们的服务aonir) | Plus ¥168 / 月、Pro 100 ¥730 / 月、Pro 200 ¥1400 / 月，均支持微信自助充值 |
 | 已有 Plus，经常触及 Work / Codex 用量上限 | [比较 Plus 与 Pro 100](#aonir-plus-pro) | 先确认额外用量是否能解决工作中的实际限制，再选择套餐 |
@@ -150,18 +151,18 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 
 这一步不能省。Apple 在美国按账单地址收销售税，州、县、市、区都按账单地址认定（见 Apple 开发者文档的[交易税报告字段说明](https://developer.apple.com/help/app-store-connect/reference/transaction-tax-report-fields)）。$20 礼品卡付完 $19.99 只剩 $0.01，账单地址在收税的州，加上税就超过余额，付款时会提示「必须提供付款信息才能继续购买」，处理办法见[下文](#apple-payment-info-required)。
 
-**本次实测成本：** 准备一个月的订阅余额，10 月 13 日复测是 **¥134.44**（7 月 18 日实付 ¥135.98）。汇率会变化，购买时以 Pockyt 和 App Store 页面显示为准；每次的汇率和明细见下面[实测流程](#支付宝买美区礼品卡实测流程附截图)里的表。
+**本次实测成本：** 准备一个月的订阅余额，10 月 13 日复测是 **¥134.44**（7 月 18 日实付 ¥135.98）。汇率会变化，购买时以 Pockyt 和 App Store 页面显示为准；每次的汇率和明细见下面[实测流程](#支付宝买美区礼品卡实测流程附截图)里的表。Pockyt 缺货时用 [SEAGM](#seagm)，11 月 6 日实付 ¥138.13。
 
 **完整流程（建议按这个顺序做）：**
 
 1. **先把 Apple ID 改成美区。** 付款方式选 None，账单地址填 Oregon（OR），城市、邮编、电话也用 Oregon 的。这一步不花钱，却最容易卡住，确认选到 None 并保存成功，再去买卡。步骤和截图见 [Apple ID 改成美区](#apple-id-none)。
-2. **在支付宝买 $20 美区 App Store 礼品卡。** 切到美国城市 → 首页「超值抢购」里的「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop → 地区选美国，点 App Store & iTunes USA → 填收码邮箱并付款。截图见[实测流程](#支付宝买美区礼品卡实测流程附截图)；首页找不到这个入口或搜不到 Pockyt，用[直达链接](#pockyt-direct-link)。
-3. **在 App Store 兑换礼品卡，再到 iOS 版 ChatGPT App 里升级 Plus**，用余额付款，确认总额是 $19.99。见[拿到兑换码后](#apple-redeem-subscribe)。
+2. **在支付宝买 $20 美区 App Store 礼品卡。** 切到美国城市 → 首页「超值抢购」里的「大牌礼卡低至9折」→ 滑到页面底部点 Pockyshop → 地区选美国，点 App Store & iTunes USA → 填收码邮箱并付款。截图见[实测流程](#支付宝买美区礼品卡实测流程附截图)；首页找不到这个入口或搜不到 Pockyt，用[直达链接](#pockyt-direct-link)。Pockyt 缺货时改用 [SEAGM](#seagm)。
+3. **在 App Store 兑换礼品卡，再到 iOS 版 ChatGPT App 里升级 Plus**，用余额付款，确认总额是 $19.99。见[拿到兑换码后](#apple-redeem-subscribe)。新注册的 Apple ID，先买一两个便宜 App 再订，见[这一条](#apple-new-account)。
 4. **付款时卡住了：** 提示「必须提供付款信息才能继续购买」，看[账单地址改 Oregon](#apple-payment-info-required)；弹出「购买未完成，提交申请至 Apple 支持以供审核」，看[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)。
 
 买礼品卡的来源是最关键的一步，直接决定你会不会被封号：
 
-- **推荐：** 支付宝里的官方合作渠道（Pockyt）。来源正规、汇率透明，基本不会买到黑卡。下面是我实测的完整流程和截图。
+- **推荐：** 有公司主体、运营多年、能用支付宝付款的平台。本文实测过两家：Pockyt（在支付宝里直接买，下面是完整流程和截图）和 SEAGM（[Pockyt 缺货时的备用](#seagm)）。来源可查，比淘宝/闲鱼的低价卡密稳得多；其他渠道我们没实测，这里不介绍。
 - **不推荐：** 淘宝/闲鱼的低价卡密。折扣越狠越可疑，黑卡（盗刷/被举报来源）一旦被 Apple 风控识别，整个 Apple ID 可能余额清零、订阅取消，严重的连 iCloud 一起冻结。别拿主力号赌这个。
 
 ### 支付宝买美区礼品卡：实测流程（附截图）
@@ -238,13 +239,161 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 <a id="pockyt-status"></a>
 
-**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。10 月 28 日，Issue #1 也有读者按上面的新入口买到礼品卡、充值成功。11 月 4 日，Issue #1 有读者反馈 Pockyt Shop 和支付宝惠出境都显示缺货；我们当天发邮件问了 Pockyt 官方客服，当晚收到回复：美区 Apple / App Store 礼品卡已补货，可以正常下单（[客服回复截图](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1#issuecomment-6632083340)）。以后再显示缺货或者下架，可以在微信公众号 PockytShop 里找在线客服问补货时间，也请到 Issue #1 说一声。
+**Pockyt Shop 现在还能买吗？有哪些面额？** 2026 年 10 月 22 日打开看过，美区 App Store & iTunes 礼品卡还在卖：固定面额有 $10、$20、$30、$40、$50、$100、$200，另有一项 $2~500 自选金额。订 Plus 选 $20 就够。10 月 28 日，Issue #1 也有读者按上面的新入口买到礼品卡、充值成功。11 月 4 日，Issue #1 有读者反馈 Pockyt Shop 和支付宝惠出境都显示缺货；我们当天发邮件问了 Pockyt 官方客服，当晚收到回复：美区 Apple / App Store 礼品卡已补货，可以正常下单（[客服回复截图](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1#issuecomment-6632083340)）。可第二天，Issue #1 又有读者反馈「11.4刚补货，11.5就又全部售罄了」。我们再问客服，11 月 5 日的回复是：美区 Apple / App Store 礼品卡**目前暂无明确的补货时间**，补货后会尽快上架，请留意店铺页面的库存（[客服回复截图](images/pockyt-support-reply-20261105.jpg)）。缺货期间可以用下面的[备用渠道 SEAGM](#seagm)。补货时间也可以在微信公众号 PockytShop 里找在线客服问；你看到 Pockyt 补货了，请到 Issue #1 说一声。
 
 <p align="center">
   <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="2026 年 10 月 22 日 Pockyt Shop 里的美区 App Store & iTunes 礼品卡仍在售：$2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
 </p>
 
-**想用礼品卡在 iPhone 上订 Pro？** 美区 App Store 的 ChatGPT 页面（10 月 22 日）列有 Pro 100 $100、Pro 200 $200。按 [OpenAI 的说明](https://help.openai.com/en/articles/7905739-chatgpt-ios-app-upgrading-to-a-paid-subscription)，Free 直接升 Pro 要去网页端，所以在 iPhone 上只能先订 Plus，再升级 Pro。要注意，一次花 $100 以上，更容易被 Apple 拦下审核，弹出「购买未完成，提交申请至 Apple 支持以供审核」，刚注册或刚改到美区的 Apple ID 尤其容易遇到。先用这个账号正常完成几次 Plus 这样的小额购买，再充大额余额；被拦了按[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)处理。
+**想用礼品卡在 iPhone 上订 Pro？** 美区 App Store 的 ChatGPT 页面（10 月 22 日）列有 Pro 100 $100、Pro 200 $200。按 [OpenAI 的说明](https://help.openai.com/en/articles/7905739-chatgpt-ios-app-upgrading-to-a-paid-subscription)，Free 直接升 Pro 要去网页端，所以在 iPhone 上只能先订 Plus，再升级 Pro。要注意，一次花 $100 以上，更容易被 Apple 拦下审核，弹出「购买未完成，提交申请至 Apple 支持以供审核」，刚注册或刚改到美区的 Apple ID 尤其容易遇到。新注册的账号先买一两个便宜 App（见[下文](#apple-new-account)），再正常订几个月 Plus，有了购买记录再充大额余额；被拦了按[「购买未完成」怎么办](https://github.com/Avarce/apple-purchase-not-completed)处理。
+
+<a id="seagm"></a>
+
+#### Pockyt Shop 缺货怎么办：用 SEAGM 买美区礼品卡（支付宝付款，11 月 6 日实测）
+
+11 月 5 日 Pockyt 的美区卡又卖完了。我们 11 月 6 日凌晨用 iPhone 实测了 SEAGM，从注册到兑换成功：
+
+| 项目 | 实测结果（2026-11-06，北京时间） |
+| --- | --- |
+| 买的卡 | Apple 礼品卡(美国)，20 美金 |
+| 价格 | 原价 ¥142.40，折扣 3%（-¥4.27），**支付宝实付 ¥138.13**，结账页没有另加手续费 |
+| 到卡时间 | 03:03 付款，「我的卡密」先显示「待发货」，刷新几次页面，03:06 出现「显示卡片」 |
+| 兑换 | App Store 兑换成功，美区 Apple ID 余额 $20.00 |
+
+比 Pockyt 10 月 13 日复测的 ¥134.44 贵 ¥3.69。支付宝收银台按马来西亚林吉特换算（当时 1 MYR = 1.65861 CNY），实际扣款就是页面上的 ¥138.13。
+
+**SEAGM 是谁：** 网站页脚写的运营公司是 SEA Gamer Mall Sdn Bhd，2012 年在马来西亚注册（公司注册号 201201016057），卖游戏点卡和礼品卡。这款卡的商品页显示 19.5 万条评价、平均 4.99 分（SEAGM 站内数据）。商品页写明：美国卡只能兑换到美区 Apple 账户；买错地区或买了不用，按 SEAGM 的退款条款（Refund Policy）处理。
+
+**和 Pockyt 比：**
+
+| | Pockyt Shop | SEAGM |
+| --- | --- | --- |
+| 在哪买 | 支付宝里直接打开 | 浏览器打开网站，付款时跳到支付宝（我们实测用的是手机） |
+| 要准备什么 | 一个收码邮箱 | 注册账号（邮箱验证码 + 密码），第一次付款前绑手机号 |
+| $20 卡实付 | ¥134.44（10-13 复测） | ¥138.13（11-06 实测） |
+| 面额 | $10–200 固定面额，另有 $2~500 自选 | $2 到 $500 的固定面额，订 Plus 选 $20 |
+| 兑换码在哪看 | 下单邮箱，或 Pockyt Shop 的「订单」 | SEAGM 的「我的卡密」，要再输一次登录密码；邮箱只收到到货通知 |
+| 库存 | 11-05 缺货，客服说暂无补货时间 | 11-06 实测有货 |
+
+**开始前注意：**
+
+1. **关掉代理（节点）再打开。** 开着代理打开 seagm.com，可能显示 Error 1005 / Access denied：网站拦了部分机房 IP，我们用的节点就被拦了。关掉代理、用国内网络直接打开就正常。商品页直达：`https://www.seagm.com/zh-cn/apple-gift-card-us`（11 月 6 日从国内网络打开正常）。
+2. **右上角是 ZH-CN / CNY。** 用人民币结算，付款方式选支付宝。SEAGM 帮助中心的 [Alipay 付款说明](https://help.seagm.com/hc/en-cn/articles/21539912817305)（2026 年 1 月 22 日更新）写明：支付宝只供中国大陆用户使用；每次结账可能自动加收手续费，费率会变。我们这次结账页没有另加手续费，付款前以结账页金额为准。
+3. **选「Apple 礼品卡(美国)」。** 列表里还有「iTunes 礼品卡(美国)」「iTunes 礼品卡(土耳其)」，我们实测的是卡面写着 Apple Gift Card 的这一张。
+4. **默认面额是 2 美金，记得改成 20 美金。** iOS 内购的 Plus 是 $19.99，账单州设为 Oregon 不加税（见[上文](#apple-billing-oregon)），$20 刚好够。
+5. **用电脑也可以，可能更方便。** 我们是在 iPhone 的浏览器里实测的。按上面那篇 SEAGM 的支付宝说明，电脑上结账时选支付宝，页面会显示支付宝二维码，用手机支付宝「扫一扫」付款，之后在「My Orders」里看订单。用电脑买的读者，欢迎在 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 反馈一下顺不顺。
+6. **大额卡我们没试过。** 这次买 $20，只要求绑手机号。LINUX DO 上有人发帖问 200 美元的卡为什么买不了；要买大额，先问 SEAGM 右下角的在线客服（LiveChat）再付款。订 Plus 只需要 $20。
+
+**第一次用：注册账号**
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step1-register-20261106.jpg" width="250" alt="SEAGM 登录页右上角的「注册」按钮，第一次在 SEAGM 买美区 Apple 礼品卡要先注册账号"><br>
+      <b>①</b> 打开 seagm.com，点右上角<b>「登录」</b>，再点<b>「注册」</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step2-email-code-20261106.jpg" width="250" alt="SEAGM 邮箱注册页：填邮箱、发送验证码、填写验证码，勾选同意条款后点继续"><br>
+      <b>②</b> 填邮箱，点<b>「发送验证码」</b>，填邮件里的 6 位验证码，勾选同意条款，点<b>「继续」</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step3-password-20261106.jpg" width="250" alt="SEAGM 注册时设置密码，8 到 20 位，大小写字母和数字组合，点完成注册"><br>
+      <b>③</b> 设密码（8–20 位，大小写字母加数字），点<b>「完成注册」</b>。以后看兑换码还要输这个密码
+    </td>
+  </tr>
+</table>
+
+**选卡下单**
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step4-apple-us-20261106.jpg" width="250" alt="SEAGM 点卡列表里选「Apple 礼品卡(美国)」，右上角是 ZH-CN / CNY 人民币结算"><br>
+      <b>④</b> 在站内搜 Apple，选粉色的<b>「Apple 礼品卡(美国)」</b>，右上角确认是 <b>CNY</b>。用上面的直达链接会直接到第 ⑤ 步
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step5-denomination-20261106.jpg" width="250" alt="SEAGM Apple 礼品卡(美国)商品页，默认面额是 2 美金，点这一栏换面额"><br>
+      <b>⑤</b> 商品页默认是 <b>2 美金</b>，点这一栏换面额
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step6-20usd-20261106.jpg" width="250" alt="SEAGM 选择面额列表：Apple 礼品卡 20 美金(美国) ¥138.13，选中后点确认"><br>
+      <b>⑥</b> 选<b>「Apple 礼品卡 20 美金(美国)」</b>，¥138.13，点<b>「确认」</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step7-buy-20261106.jpg" width="250" alt="SEAGM 商品页已选 20 美金，总计 ¥138.13，点立即购买"><br>
+      <b>⑦</b> 总计 ¥138.13，点<b>「立即购买」</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step8-checkout-20261106.jpg" width="250" alt="SEAGM 结账页：Apple Gift Card 20 USD US 原价 ¥142.40，折扣 3% 减 ¥4.27，应付 ¥138.13，点立即支付"><br>
+      <b>⑧</b> 结账页：原价 ¥142.40，折扣 3%，应付 ¥138.13，点<b>「立即支付」</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step9-paynow-20261106.jpg" width="250" alt="SEAGM PAY 付款页：Pay with 支付宝，点 PAY NOW 付 CNY 138.13"><br>
+      <b>⑨</b> 付款页确认是 <b>Pay with 支付宝</b>，点 <b>PAY NOW</b>
+    </td>
+  </tr>
+</table>
+
+**第一次付款：先绑手机**
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step10-phone-20261106.jpg" width="250" alt="SEAGM 第一次付款弹出 Update user information，要求添加并验证手机号，点右边的箭头去绑手机"><br>
+      <b>⑩</b> 第一次付款会弹出 <b>Update user information</b>，要先绑手机：点右边的<b>箭头</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step11-verify-20261106.jpg" width="250" alt="SEAGM 绑定手机号：选 +86 China，填手机号，发短信验证码，填验证码后点 Verify"><br>
+      <b>⑪</b> 选 +86，填手机号，点 <b>Send verification code</b>，填短信验证码，点 <b>Verify</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step12-done-20261106.jpg" width="250" alt="SEAGM 手机号验证成功，Add and verify your Phone 显示绿勾，点 Done"><br>
+      <b>⑫</b> 回到弹窗显示<b>绿勾</b>，点 <b>Done</b>，再点一次 <b>PAY NOW</b>
+    </td>
+  </tr>
+</table>
+
+**支付宝付款，拿兑换码，兑换**
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step13-alipay-20261106.jpg" width="250" alt="支付宝网页收银台：Alipay for SEA GAMER MALL SDN BHD，输入 6 位支付密码后点确认付款"><br>
+      <b>⑬</b> 跳到支付宝收银台：输入 6 位<b>支付密码</b>，点<b>「确认付款」</b>。要求先登录的，按页面提示登录支付宝。收银台可能默认选花呗，想用余额或银行卡点「其他付款方式」
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step14-retrieve-20261106.jpg" width="250" alt="SEAGM PAY 付款详情：Alipay (CNY) 交易成功，点 Retrieve Code/Key"><br>
+      <b>⑭</b> 付款成功，页面自动跳回 SEAGM，显示<b>交易成功</b>，点 <b>Retrieve Code/Key</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step15-account-password-20261106.jpg" width="250" alt="SEAGM 我的卡密：账户验证，输入 SEAGM 登录密码后点提交"><br>
+      <b>⑮</b> 输入 SEAGM 的<b>登录密码</b>，点<b>「提交」</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step16-show-card-20261106.jpg" width="250" alt="SEAGM 我的卡密：Apple Gift Card (US) 20 USD 到货，点显示卡片"><br>
+      <b>⑯</b> 刚付完显示「待发货」，<b>多刷新几次页面</b>，这次约 3 分钟后出现<b>「显示卡片」</b>，点它。邮箱也会收到 Orders Are Ready 通知
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step17-code-20261106.jpg" width="250" alt="SEAGM 获取卡：Apple 礼品卡(美国) 20 美金的 16 位兑换码（卡密）"><br>
+      <b>⑰</b> 兑换码（SEAGM 页面上叫「卡密」）是 16 位字母和数字，复制下来（图里这张已经兑换）
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="images/seagm-step18-redeem-20261106.jpg" width="250" alt="App Store 兑换页面粘贴 Apple 礼品卡兑换码，点 Redeem"><br>
+      <b>⑱</b> App Store → 右上角头像 → Redeem Gift Card or Code（中文界面是「兑换代码」），粘贴兑换码，点 <b>Redeem</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="images/seagm-step19-added-20261106.jpg" width="300" alt="App Store 显示 $20.00 Added，美区 Apple 账户余额 $20.00"><br>
+  <b>⑲</b> 显示 <b>$20.00 Added</b>，余额 $20.00，兑换成功
+</p>
+
+兑换以后和 Pockyt 买的卡一样：到 iOS 版 ChatGPT App 里升级 Plus，用余额付 $19.99，见[拿到兑换码后](#apple-redeem-subscribe)。这是我们一次完整的实测，说明流程走得通、卡能兑换；价格和库存以 SEAGM 页面为准。
 
 <a id="apple-id-none"></a>
 
@@ -301,9 +450,17 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 **拿到兑换码后：兑换，再订阅**
 
-1. **找兑换码。** 兑换码会发到下单时填的邮箱；没收到也不用急，在 Pockyt Shop 底部的「订单」里能看到这笔购买记录和兑换码。
+1. **找兑换码。** 兑换码会发到下单时填的邮箱；没收到也不用急，在 Pockyt Shop 底部的「订单」里能看到这笔购买记录和兑换码。在 SEAGM 买的，兑换码在「我的卡密」里，见[上面第 ⑭–⑰ 步](#seagm)。
 2. **兑换。** App Store → 右上角头像 → Redeem Gift Card or Code（中文界面是「兑换代码」），把兑换码充入美区 Apple ID。兑换后，余额会显示在名字下面。
 3. **订阅。** 在 iOS 版 ChatGPT App 登录要升级的 OpenAI 账号 → Upgrade → 使用 Apple ID Balance 完成付款，付款前确认总额是 $19.99。
+
+<a id="apple-new-account"></a>
+
+**新注册的美区 Apple ID：可以先买一两个便宜 App，再订 Plus。** 这是我们的经验，不是 Apple 写明的规则：刚建好的账号，第一笔就用余额付 $19.99，比较容易卡住，弹出「购买未完成，提交申请至 Apple 支持以供审核」。先在 App Store 搜「0.99」，挑一两个便宜的 App 买下来，下载打开用一用，让账号有一些正常的购买和使用记录，再去订 Plus。这样做不保证一定不被审核，只是让账号看起来更像正常在用。
+
+<p align="center">
+  <img src="images/apple-new-account-cheap-apps-20261106.jpg" width="300" alt="美区 App Store 搜索 0.99，结果里有 $0.99、$0.29 的付费 App，新注册的美区 Apple ID 可以先买一两个便宜 App">
+</p>
 
 **订阅成功了？** 这条路线下个月续费前还要再充一次礼品卡。点一下右上角的 Star，下次好找回来；价格和入口有变化，也会更新在这里。
 
@@ -370,7 +527,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 | --- | --- | --- | --- | --- | --- | --- |
 | A 官方直付 | 低（前提是有海外卡） | 即时 | 高，绑自己账号 | 高，官方自动续费 | $20/月原价 | 有海外卡首选 |
 | B 海外虚拟卡 | 高：多为 USDT + KYC | 不稳定，失败要反复排查 | 中，身份信息给发卡平台 | 中，平台停运/跑路风险 | $20 + 各种费用 | 技术党可玩，普通人不推荐 |
-| C 美区礼品卡 | 中：准备美区 Apple ID + 买卡 | 顺利时较快 | 中，走苹果内购 | 中高，苹果体系内很稳 | 2026-10 复测 ¥134.44，7 月实付 ¥135.98（Oregon 账单州，$19.99 无额外税） | 有苹果设备可选 |
+| C 美区礼品卡 | 中：准备美区 Apple ID + 买卡 | 顺利时较快 | 中，走苹果内购 | 中高，苹果体系内很稳 | 2026-10 复测 ¥134.44，7 月实付 ¥135.98（Oregon 账单州，$19.99 无额外税）；Pockyt 缺货时 SEAGM 11-06 实付 ¥138.13 | 有苹果设备可选 |
 | D 第三方代充 | 低：人民币付款 | 快，靠谱平台几分钟 | 高（前提：自助、不要密码） | 高（前提：平台靠谱） | 随平台/汇率 | 多数非技术用户最现实 |
 | 共享号 | 低 | 快但随时失效 | 低，聊天记录暴露 | 低，随时封号 | 最便宜 | 不推荐 |
 
@@ -450,6 +607,10 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 按 OpenAI 的规定，付款卡要由支持地区的银行发行，中国大陆、香港、澳门不在名单里，所以国内银行发的卡（包括双币卡、全币卡）不在官方支持范围内。别反复试。原因和出处见[上文](#先搞明白为什么国内充-plus-这么难)。
 
+### Q：Pockyt Shop 缺货了，美区礼品卡还能在哪里买？
+
+11 月 6 日我们实测了 SEAGM：网页注册账号，支付宝付款，$20 美区 Apple 礼品卡实付 ¥138.13，约 3 分钟拿到兑换码，兑换成功。完整步骤、截图和注意事项见[上文](#seagm)；开着代理可能打不开，关掉代理（节点）直接打开就行。其他渠道我们没实测，不做推荐；淘宝、闲鱼的低价卡密不建议买。
+
 ### Q：通过代充开 Plus 会被封号吗？
 
 AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅渠道，Plus 会开通到用户本人的 ChatGPT 账号。但账号封禁、限制或验证要求最终由 OpenAI 根据平台规则处理，任何第三方都不能保证账号绝对不会被限制。请不要共享、出租或转售账号，并遵守平台使用政策。
@@ -494,7 +655,7 @@ AONIR 目前未遇到因充值导致的封号情况，使用的是 Apple 订阅�
 ### 阶段三：付款过了，但会员没到 / 账号异常
 
 - **扣款成功却没有 Plus 标识：** 先完全退出重新登录或换无痕；再确认你充的是哪个邮箱（多账号很容易付错号）；还没有就去邮箱搜 OpenAI 的收据邮件，确认到底扣款没有。
-- **礼品卡兑换提示 This code has already been redeemed：** 你大概率买到黑卡了。低价卡密最容易踩这个，认准支付宝官方渠道能基本避免。
+- **礼品卡兑换提示 This code has already been redeemed：** 你大概率买到黑卡了。低价卡密最容易踩这个；从有公司主体、能查订单的渠道买（本文实测的 Pockyt、SEAGM），风险小得多。
 - **Your account has been deactivated：** 分两种——充值前就被封的，多是网络/滥用/违规内容触发，可发邮件申诉但成功率不高；充值后被封的，大概率跟黑卡、人工代充交号、或多人共享有关。这也是本文反复强调「别贪便宜」的原因。
 
 ## 一句话总结
