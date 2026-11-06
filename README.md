@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 11 月 6 日（北京时间）· Pockyt Shop 的美区 Apple 礼品卡 11 月 5 日起缺货，客服回复暂无明确补货时间（[现在还能买吗](#pockyt-status)）。我们 11 月 6 日实测了备用渠道 SEAGM：支付宝付款，$20 卡实付 ¥138.13，约 3 分钟拿到兑换码，见 [Pockyt Shop 缺货怎么办](#seagm)。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 11 月 6 日（北京时间）· Pockyt Shop 的美区 Apple 礼品卡 11 月 6 日中午已补货，客服回信说可以正常下单，我们也打开核实过（[现在还能买吗](#pockyt-status)）。缺货期间我们 11 月 6 日凌晨实测了备用渠道 SEAGM：支付宝付款，$20 卡实付 ¥138.13，约 3 分钟拿到兑换码，Pockyt 再缺货时见 [Pockyt Shop 缺货怎么办](#seagm)。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有支付宝 6 步和 SEAGM 19 步的本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -271,7 +271,7 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 
 <a id="pockyt-status"></a>
 
-#### Pockyt Shop 现在还能买吗？（11 月 5 日起缺货）
+#### Pockyt Shop 现在还能买吗？（11 月 6 日已补货）
 
 | 日期 | 状态 | 来源 |
 | --- | --- | --- |
@@ -279,8 +279,9 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 | 10 月 28 日 | 读者按新入口买到礼品卡、充值成功 | [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) |
 | 11 月 4 日 | 缺货，客服当晚回复已补货 | Issue #1 读者反馈，[客服回复](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1#issuecomment-6632083340) |
 | 11 月 5 日 | 又卖完了，客服回复**暂无明确的补货时间** | Issue #1 读者反馈，[客服回复截图](images/pockyt-support-reply-20261105.jpg) |
+| 11 月 6 日 | **已补货**：客服中午回信「现已到货，可以正常下单购买」，我们当天打开核实有货 | [客服回信截图](images/pockyt-support-restock-20261106.jpg) |
 
-缺货期间可以用下面的[备用渠道 SEAGM](#seagm)，同样能用支付宝买苹果美区礼品卡。补货时间可以在微信公众号 PockytShop 里找在线客服问；你看到 Pockyt 补货了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。订 Plus 选 $20 就够。
+补货后照常按上面的支付宝流程买就行。11 月 4 日、5 日接连卖完过，再遇到缺货可以用下面的[备用渠道 SEAGM](#seagm)，同样能用支付宝买苹果美区礼品卡。补货时间可以在微信公众号 PockytShop 里找在线客服问；你看到 Pockyt 缺货或补货了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。订 Plus 选 $20 就够。
 
 <p align="center">
   <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="支付宝里的 Pockyt Shop 商品页：地区选美国后，App Store & iTunes 美区礼品卡有 $2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
@@ -292,7 +293,7 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 
 #### Pockyt Shop 缺货怎么办：用 SEAGM 买美区礼品卡（支付宝付款，11 月 6 日实测）
 
-11 月 5 日 Pockyt 的美区卡又卖完了。我们 11 月 6 日凌晨用 iPhone 实测了 SEAGM 官网（seagm.com），从注册到兑换成功：
+11 月 5 日 Pockyt 的美区卡又卖完了（11 月 6 日中午已补货）。我们 11 月 6 日凌晨用 iPhone 实测了 SEAGM 官网（seagm.com），从注册到兑换成功：
 
 | 项目 | 实测结果（2026-11-06，北京时间） |
 | --- | --- |
@@ -314,7 +315,7 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 | $20 卡实付 | ¥134.44（10-13 复测） | ¥138.13（11-06 实测） |
 | 面额 | $10–200 固定面额，另有 $2~500 自选 | $2 到 $500 的固定面额，订 Plus 选 $20 |
 | 兑换码在哪看 | 下单邮箱，或 Pockyt Shop 的「订单」 | SEAGM 的「我的卡密」，要再输一次登录密码；邮箱只收到到货通知 |
-| 库存 | 11-05 缺货，客服说暂无补货时间 | 11-06 实测有货 |
+| 库存 | 11-05 缺货，11-06 中午补货 | 11-06 实测有货 |
 
 **开始前注意：**
 
@@ -656,7 +657,7 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 
 ### Q：Pockyt Shop 缺货了，美区礼品卡还能在哪里买？
 
-11 月 6 日我们实测了 SEAGM：网页注册账号，支付宝付款，$20 苹果美区礼品卡（Apple 礼品卡(美国)）实付 ¥138.13，约 3 分钟拿到兑换码，兑换成功。完整步骤、截图和注意事项见[上文](#seagm)；开着代理可能打不开，关掉代理（节点）直接打开就行。其他渠道我们没实测，不做推荐；淘宝、闲鱼的低价卡密不建议买。
+Pockyt 11 月 6 日中午已补货，库存变化见 [Pockyt Shop 现在还能买吗](#pockyt-status)。再缺货的话可以用 SEAGM：11 月 6 日我们实测，网页注册账号，支付宝付款，$20 苹果美区礼品卡（Apple 礼品卡(美国)）实付 ¥138.13，约 3 分钟拿到兑换码，兑换成功。完整步骤、截图和注意事项见[上文](#seagm)；开着代理可能打不开，关掉代理（节点）直接打开就行。其他渠道我们没实测，不做推荐；淘宝、闲鱼的低价卡密不建议买。
 
 ### Q：通过代充开 Plus 会被封号吗？
 
