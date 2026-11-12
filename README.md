@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值指南（2026）：支付宝买美区 Apple 礼品卡实测
 
-> 最后更新：2026 年 11 月 6 日（北京时间）· Pockyt Shop 的美区 Apple 礼品卡 11 月 6 日中午已补货，客服回信说可以正常下单，我们也打开核实过（[现在还能买吗](#pockyt-status)）。缺货期间我们 11 月 6 日凌晨实测了备用渠道 SEAGM：支付宝付款，$20 卡实付 ¥138.13，约 3 分钟拿到兑换码，Pockyt 再缺货时见 [Pockyt Shop 缺货怎么办](#seagm)。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
+> 最后更新：2026 年 11 月 12 日（北京时间）· Pockyt Shop 的美区 Apple 礼品卡 11 月 12 日还能买：我们用支付宝买了一张 $100 的卡，实付 ¥670.43（[现在还能买吗](#pockyt-status)）。Pockyt 缺货时的备用渠道 SEAGM 见 [Pockyt Shop 缺货怎么办](#seagm)（11 月 6 日实测）。以前的更新见 [Releases](https://github.com/Avarce/chatgpt-plus-china-guide/releases) 和[提交记录](https://github.com/Avarce/chatgpt-plus-china-guide/commits/main/README.md)。
 > 看到更新时间过久，欢迎提 Issue 催更。想在价格或入口变化时收到通知，点右上角 Watch → Custom → Releases。
 
 如果你有 iPhone 或 iPad，我在 2026 年 7 月亲测下来最顺手的自助路线是：在支付宝购买一张 $20 美区 Apple 礼品卡（当时实付 ¥135.98，10 月 13 日复测 ¥134.44），充值到美区 Apple ID，再在 iOS 版 ChatGPT App 内完成 Plus 订阅。下面附有支付宝 6 步和 SEAGM 19 步的本人操作截图，同时也会把海外卡、虚拟卡和第三方充值的成本与风险讲清楚。
@@ -190,10 +190,11 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
 | 即时汇率参考（2026-07-18 17:09 UTC） | $19.99 ≈ ¥135.40 |
 | Pockyt 实际成交（2026-07-18） | $20 美区礼品卡实付 ¥135.98，汇率 1 USD = 6.81244 CNY |
 | Pockyt 付款页复测（2026-10-13 02:40 北京时间） | 同一张卡 ¥134.44，汇率 1 USD = 6.73527 CNY，订单金额 $19.96 |
+| Pockyt 实际成交（2026-11-12 22:10 北京时间） | $100 美区礼品卡实付 ¥670.43，汇率 1 USD = 6.70434 CNY，订单金额 $100.00（[支付宝账单](images/pockyt-alipay-bill-20261112.jpg)） |
 | ChatGPT iOS 内购（账单州 Oregon） | $19.99，无额外销售税 |
 | 付款后余额 | 兑换 $20 后支付一个月，Apple ID 余额剩 $0.01 |
 
-**Pockyt Shop 是谁：** 美国支付公司 Pockyt 开的礼品卡商店。Pockyt 2017 年成立，总部在纽约，原名 Yuansfer，做线上线下收款，商家用它接支付宝、PayPal 等主流电子钱包付款，拿过 500 万美元种子轮融资（[2022 年 1 月的新闻稿](https://www.globenewswire.com/news-release/2022/01/13/2366358/0/en/Leading-Payments-Platform-Pockyt-Announces-Partnership-With-Delaware-North-Enabling-Contactless-QR-Code-Payments-For-Consumers-Using-Alipay-PayPal-and-Other-Popular-Digital-Wallets.html)）。[Pockyt 官网](https://pockyt.io)写明，公司主体 Yuansfer, Inc.（NMLS #2126922）在所列的美国各州持牌或获准经营汇款业务。Pockyt Shop 的[礼品卡条款](https://shop.pockyt.io/terms)（2022 年 10 月 8 日更新）写明：礼品卡由合作的零售商提供和兑现，卖出后不退（购买出错没买成的除外），客服邮箱 shopsupports@pockyt.io，地址在纽约华尔街 40 号。网页版 11 月 6 日列着 226 种礼品卡；支付宝首页的「大牌礼卡」活动页里也有它的入口。
+**Pockyt Shop 是谁：** 美国支付公司 Pockyt 开的礼品卡商店。Pockyt 2017 年成立，总部在纽约，原名 Yuansfer，做线上线下收款，商家用它接支付宝、PayPal 等主流电子钱包付款，拿过 500 万美元种子轮融资（[2022 年 1 月的新闻稿](https://www.globenewswire.com/news-release/2022/01/13/2366358/0/en/Leading-Payments-Platform-Pockyt-Announces-Partnership-With-Delaware-North-Enabling-Contactless-QR-Code-Payments-For-Consumers-Using-Alipay-PayPal-and-Other-Popular-Digital-Wallets.html)）。[Pockyt 官网](https://pockyt.io)写明，公司主体 Yuansfer, Inc.（NMLS #2126922）在所列的美国各州持牌或获准经营汇款业务；在支付宝买卡，账单上的收款方写的也是 Yuansfer Inc。Pockyt Shop 的[礼品卡条款](https://shop.pockyt.io/terms)（2022 年 10 月 8 日更新）写明：礼品卡由合作的零售商提供和兑现，卖出后不退（购买出错没买成的除外），客服邮箱 shopsupports@pockyt.io，地址在纽约华尔街 40 号。网页版 11 月 6 日列着 226 种礼品卡；支付宝首页的「大牌礼卡」活动页里也有它的入口。
 
 **入口是 2026 年 10 月 28 日实测的。** 支付宝首页的活动位会跟着活动换：这次的入口在首页「超值抢购」里，卡片标着「秋季限定」，活动结束后可能又会换位置。以前的入口是底部「Coupons」→「大牌礼卡」，Pockyt Shop 首页的横幅上现在还是这样写的（「优惠」菜单 → 大牌礼卡），首页找不到时可以再试试。两处都找不到，直接用下面的[直达链接](#pockyt-direct-link)。进了 Pockyt Shop，先点右上角的星标收藏（第 ⑥ 步），以后入口再换也不用重新找。
 
@@ -215,7 +216,7 @@ Pro 三档是 9 月 29 日 OpenAI DevDay 当天改的，倍数出自 [Codex 负�
   <tr>
     <td width="33%" valign="top" align="center">
       <img src="images/giftcard-step4-appstore-20261028.jpg" width="250" alt="Pockyt Shop 首页地区选美国，点 App Store & iTunes USA 美区 Apple 礼品卡"><br>
-      <b>④</b> 进入 Pockyt Shop，<b>地区选美国</b>，点 <b>App Store &amp; iTunes USA</b>，填邮箱、选面额（<b>直接选 $20，别卡着 $19.99</b>）
+      <b>④</b> 进入 Pockyt Shop，<b>地区选美国</b>，点 <b>App Store &amp; iTunes USA</b>（卖完了就点旁边的 <b>Apple Gift Card</b>），填邮箱、选面额（<b>直接选 $20，别卡着 $19.99</b>）
     </td>
     <td width="33%" valign="top" align="center">
       <img src="images/giftcard-step4-payment-20261013.jpg" width="250" alt="支付宝购买 $20 美区 Apple 礼品卡的付款页，2026 年 10 月 13 日显示 ¥134.44，用于 iPhone 订阅 ChatGPT Plus"><br>
@@ -259,7 +260,7 @@ https://ur.alipay.com/_5pdWVYNxT2sYKHaPeYkNZh
 
 #### 用电脑买：Pockyt Shop 官网（shop.pockyt.io）
 
-Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt.io)，用电脑操作更方便。11 月 6 日打开看过：右上角登录 / 注册，左上角地区选美国，在「全部礼卡」里点 App Store & iTunes USA，输入面额 USD 20，付款方式里有支付宝和微信支付。网页版我们没有实测付款，流程和支付宝里买大致一样。
+Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt.io)，用电脑操作更方便。11 月 6 日打开看过：右上角登录 / 注册，左上角地区选美国，在「全部礼卡」里点 App Store & iTunes USA（卖完了就点 Apple Gift Card，11 月 12 日看过电脑版也有），输入面额 USD 20，付款方式里有支付宝和微信支付。网页版我们没有实测付款，流程和支付宝里买大致一样。
 
 <p align="center">
   <img src="images/pockyt-web-catalog-20261106.jpg" width="760" alt="Pockyt Shop 官网 shop.pockyt.io 电脑版：右上角登录注册，地区选美国，全部礼卡里点 App Store & iTunes USA">
@@ -271,7 +272,7 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 
 <a id="pockyt-status"></a>
 
-#### Pockyt Shop 现在还能买吗？（11 月 6 日已补货）
+#### Pockyt Shop 现在还能买吗？（11 月 12 日实测有货）
 
 | 日期 | 状态 | 来源 |
 | --- | --- | --- |
@@ -280,14 +281,28 @@ Pockyt 客服邮件里写的官方网站是 [shop.pockyt.io](https://shop.pockyt
 | 11 月 4 日 | 缺货，客服当晚回复已补货 | Issue #1 读者反馈，[客服回复](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1#issuecomment-6632083340) |
 | 11 月 5 日 | 又卖完了，客服回复**暂无明确的补货时间** | Issue #1 读者反馈，[客服回复截图](images/pockyt-support-reply-20261105.jpg) |
 | 11 月 6 日 | **已补货**：客服中午回信「现已到货，可以正常下单购买」，我们当天打开核实有货 | [客服回信截图](images/pockyt-support-restock-20261106.jpg) |
+| 11 月 12 日 | **在售**：App Store & iTunes 卖完了，旁边的 **Apple Gift Card** 有货。我们用支付宝买了一张 $100 美区卡，一次付款成功，付款后页面直接显示兑换码 | 我们实测，见下面截图 |
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/pockyt-giftcard-code-20261112.jpg" width="250" alt="Pockyt Shop 付款成功页：适用地区美国，感谢您的购买，页面上直接显示美区 Apple 礼品卡号码，可以一键复制"><br>
+      <b>①</b> 11 月 12 日在支付宝里买 $100 美区卡，付完款页面<b>直接显示兑换码</b>，点「复制」就行（图里这张已经兑换）
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/pockyt-alipay-bill-20261112.jpg" width="250" alt="支付宝账单：收款方 Yuansfer Inc，Apple Gift Card - Pockyt GiftCard，670.43 元（100.00 美元），汇率 1 美元 = 6.70434 人民币"><br>
+      <b>②</b> 支付宝账单：收款方是 <b>Yuansfer Inc</b>（Pockyt 的公司主体），$100 实付 <b>¥670.43</b>，汇率 6.70434
+    </td>
+  </tr>
+</table>
 
 补货后照常按上面的支付宝流程买就行。11 月 4 日、5 日接连卖完过，再遇到缺货可以用下面的[备用渠道 SEAGM](#seagm)，同样能用支付宝买苹果美区礼品卡。补货时间可以在微信公众号 PockytShop 里找在线客服问；你看到 Pockyt 缺货或补货了，请到 [Issue #1](https://github.com/Avarce/chatgpt-plus-china-guide/issues/1) 说一声。订 Plus 选 $20 就够。
 
 <p align="center">
-  <img src="images/pockyt-shop-denominations-20261022.jpg" width="300" alt="支付宝里的 Pockyt Shop 商品页：地区选美国后，App Store & iTunes 美区礼品卡有 $2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
+  <img src="images/pockyt-shop-denominations-20261112.jpg" width="300" alt="支付宝里的 Pockyt Shop 商品页：地区选美国，Apple Gift Card 有 $2~500 自选金额，以及 $10、$20、$30、$40、$50、$100、$200 面额">
 </p>
 
-<p align="center"><sub>支付宝里的 Pockyt Shop 商品页（2026 年 10 月 22 日截图）：地区选美国后，App Store & iTunes 礼品卡有 $2~500 自选金额和 $10、$20、$30、$40、$50、$100、$200 几档固定面额，订 Plus 选 $20 就够。</sub></p>
+<p align="center"><sub>支付宝里的 Pockyt Shop 商品页（2026 年 11 月 12 日截图）：地区选美国，App Store & iTunes 卖完时，可以买旁边的 Apple Gift Card。面额可以自己填（$2~500），也有 $10–200 几档固定面额，订 Plus 选 $20 就够。</sub></p>
 
 <a id="seagm"></a>
 
